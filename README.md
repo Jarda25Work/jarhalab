@@ -6,6 +6,14 @@
 
 ## 🚀 Live Projects
 
+### 🏠 [jarhalab.com](https://jarhalab.com) — Homepage & Hub
+
+> **Status:** ✅ Live
+
+Central homepage connecting all JarhaLab projects with unified navigation and discovery.
+
+---
+
 ### 🔧 [tools.jarhalab.com](https://tools.jarhalab.com) — Online Utility Tools
 
 > **Status:** ✅ Live
@@ -58,14 +66,6 @@ Free online calculators with educational wiki articles and step-by-step guides. 
 
 ---
 
-### 🏠 [jarhalab.com](https://jarhalab.com) — Homepage & Hub
-
-> **Status:** 🔜 Coming Soon
-
-Central homepage connecting all JarhaLab projects with unified navigation and discovery.
-
----
-
 ## 📊 Total Platform Stats
 
 | Metric | tools | calc | Total |
@@ -99,9 +99,9 @@ All projects share the same modern stack:
 
 | | URL |
 |---|-----|
+| 🏠 Homepage | [jarhalab.com](https://jarhalab.com) |
 | 🔧 Tools | [tools.jarhalab.com](https://tools.jarhalab.com) |
 | 🧮 Calculators | [calc.jarhalab.com](https://calc.jarhalab.com) |
-| 🏠 Homepage | [jarhalab.com](https://jarhalab.com) |
 
 ---
 
