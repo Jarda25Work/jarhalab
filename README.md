@@ -105,4 +105,8 @@ All projects share the same modern stack:
 
 ---
 
+More free web apps are coming soon — stay tuned at [jarhalab.com](https://jarhalab.com) for new projects and updates. 🚀
+
+---
+
 *Built with ❤️ by JarhaLab*
