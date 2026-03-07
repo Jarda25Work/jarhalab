@@ -23,9 +23,9 @@ A fast, modern collection of **278 free online tools** for text processing, imag
 | | Count |
 |---|------:|
 | Tools | **278** |
-| Wiki Articles | **78** |
-| How-To Guides | **75** |
-| Static Pages | **474** |
+| Wiki Articles | **110** |
+| How-To Guides | **223** |
+| Static Pages | **~660** |
 
 **Categories:** Text (161) · Image (48) · Developer (24) · Security (14) · Color (15) · Random (16) · Base64 Image (10)
 
@@ -66,18 +66,18 @@ Free online calculators with educational wiki articles and step-by-step guides. 
 
 ---
 
-### 🎨 [colors.jarhalab.com](https://colors.jarhalab.com) — Color Tools
+### 🎨 colors.jarhalab.com — Color Tools
 
-> **Status:** 📅 Launching **March 15, 2026**
+> **Status:** 🚧 In development
 
 Color tools and color reference database. Palettes, converters, contrast checkers and more.
 
 | | Count |
 |---|------:|
-| Tools | **40** |
-| Wiki Articles | **15** |
-| How-To Guides | **15** |
-| Static Pages | **94** |
+| Tools | **121** |
+| Wiki Articles | **89** |
+| How-To Guides | **91** |
+| Static Pages | **~301** |
 
 **Categories:** Converter (12) · Palette (8) · Accessibility (4) · Gradient (4) · Reference (7) · Utility (5)
 
@@ -96,10 +96,10 @@ Color tools and color reference database. Palettes, converters, contrast checker
 
 | Metric | tools | calc | colors | Total |
 |--------|------:|-----:|-------:|------:|
-| Tools / Calculators | 278 | 111 | 40 | **429** |
-| Wiki Articles | 78 | 93 | 15 | **186** |
-| How-To Guides | 75 | 94 | 15 | **184** |
-| Static Pages | 474 | 298 | 94 | **866** |
+| Tools / Calculators | 278 | 111 | 121 | **510** |
+| Wiki Articles | 110 | 93 | 89 | **292** |
+| How-To Guides | 223 | 94 | 91 | **408** |
+| Static Pages | ~660 | 298 | ~301 | **~1 259** |
 
 ---
 
@@ -128,7 +128,7 @@ All projects share the same modern stack:
 | 🏠 Homepage | [jarhalab.com](https://jarhalab.com) |
 | 🔧 Tools | [tools.jarhalab.com](https://tools.jarhalab.com) |
 | 🧮 Calculators | [calc.jarhalab.com](https://calc.jarhalab.com) |
-| 🎨 Colors | [colors.jarhalab.com](https://colors.jarhalab.com) |
+| 🎨 Colors | colors.jarhalab.com *(coming soon)* |
 
 ---
 
