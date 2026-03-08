@@ -1,4 +1,4 @@
-# 🌐 JarhaLab — Free Online Tools, Calculators & Color Tools
+# 🌐 JarhaLab — Free Online Tools, Calculators, Color Tools & Unit Converters
 
 **JarhaLab** is a growing family of free, privacy-first web applications. Every tool runs entirely in the browser — no data is ever sent to any server.
 
@@ -18,16 +18,16 @@ Central homepage connecting all JarhaLab projects with unified navigation and di
 
 > **Status:** ✅ Live
 
-A fast, modern collection of **278 free online tools** for text processing, image editing, encoding, hashing, color manipulation, and developer utilities.
+A fast, modern collection of **287 free online tools** for text processing, image editing, encoding, hashing, color manipulation, and developer utilities.
 
 | | Count |
 |---|------:|
-| Tools | **278** |
-| Wiki Articles | **110** |
-| How-To Guides | **223** |
-| Static Pages | **~660** |
+| Tools | **287** |
+| Wiki Articles | **114** |
+| How-To Guides | **232** |
+| Static Pages | **~633** |
 
-**Categories:** Text (161) · Image (48) · Developer (24) · Security (14) · Color (15) · Random (16) · Base64 Image (10)
+**Categories:** Text (152) · Image (49) · Developer (32) · Security (14) · Color (15) · Random (15) · Base64 Image (10)
 
 **Highlights:**
 - 🔤 Text — case converters, encoders/decoders, extractors, formatters, diff checker, Morse code, regex tester
@@ -43,18 +43,18 @@ A fast, modern collection of **278 free online tools** for text processing, imag
 
 ### 🧮 [calc.jarhalab.com](https://calc.jarhalab.com) — Online Calculators
 
-> **Status:** 📅 Launching **March 8, 2026**
+> **Status:** ✅ Live
 
 Free online calculators with educational wiki articles and step-by-step guides. Finance, health, math, construction, and more.
 
 | | Count |
 |---|------:|
-| Calculators | **111** |
-| Wiki Articles | **93** |
-| How-To Guides | **94** |
-| Static Pages | **298** |
+| Calculators | **112** |
+| Wiki Articles | **94** |
+| How-To Guides | **95** |
+| Static Pages | **~301** |
 
-**Categories:** Finance (42) · Math (19) · Health (15) · Age & Time (13) · Percentage (8) · Education (7) · Everyday (4) · Construction (4) · Investment (2)
+**Categories:** Finance (42) · Math (19) · Health (15) · Time (9) · Education (7) · Percentage (5) · Everyday (5) · Construction (4) · Age & Time (4) · Investment (2)
 
 **Highlights:**
 - 💰 Finance — loan, mortgage, compound interest, salary, tax, ROI, debt payoff, retirement
@@ -66,20 +66,20 @@ Free online calculators with educational wiki articles and step-by-step guides. 
 
 ---
 
-### 🎨 colors.jarhalab.com — Color Tools
+### 🎨 [colors.jarhalab.com](https://colors.jarhalab.com) — Color Tools
 
-> **Status:** 🚧 In development
+> **Status:** ✅ Live
 
-Color tools and color reference database. Palettes, converters, contrast checkers and more.
+Color tools and color reference database. Palettes, converters, contrast checkers, mixers, and more.
 
 | | Count |
 |---|------:|
-| Tools | **121** |
-| Wiki Articles | **89** |
-| How-To Guides | **91** |
-| Static Pages | **~301** |
+| Tools | **122** |
+| Wiki Articles | **90** |
+| How-To Guides | **92** |
+| Static Pages | **~304** |
 
-**Categories:** Converter (12) · Palette (8) · Accessibility (4) · Gradient (4) · Reference (7) · Utility (5)
+**Categories:** Palette (35) · Converter (28) · Reference (19) · Mixer (17) · Accessibility (14) · Image (4) · Gradient (4) · Picker (1)
 
 **Highlights:**
 - 🔄 Converter — HEX/RGB/HSL/HSV/CMYK converters, color code converter, RGBA support
@@ -92,14 +92,42 @@ Color tools and color reference database. Palettes, converters, contrast checker
 
 ---
 
+### 📐 [units.jarhalab.com](https://units.jarhalab.com) — Unit Converters
+
+> **Status:** ✅ Live
+
+Unit converters for everyday measurements with educational wiki articles and step-by-step guides.
+
+| | Count |
+|---|------:|
+| Converters | **146** |
+| Wiki Articles | **154** |
+| How-To Guides | **148** |
+| Static Pages | **~448** |
+
+**Categories:** Volume (26) · Length (26) · Weight (20) · Time (20) · Digital (18) · Area (16) · Temperature (10) · Speed (10)
+
+**Highlights:**
+- 📏 Length — meters, feet, inches, miles, kilometers, yards, nautical miles
+- ⚖️ Weight — kg, pounds, ounces, grams, stones, tons, troy ounces
+- 🌡️ Temperature — Celsius, Fahrenheit, Kelvin, Rankine
+- 🏎️ Speed — mph, km/h, m/s, knots, Mach
+- 🧪 Volume — liters, gallons, cups, tablespoons, fluid ounces, milliliters
+- 📐 Area — sq meters, acres, hectares, sq feet, sq kilometers
+- 💾 Digital — bytes, KB, MB, GB, TB, PB, bits, megabits
+
+**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
+
+---
+
 ## 📊 Total Platform Stats
 
-| Metric | tools | calc | colors | Total |
-|--------|------:|-----:|-------:|------:|
-| Tools / Calculators | 278 | 111 | 121 | **510** |
-| Wiki Articles | 110 | 93 | 89 | **292** |
-| How-To Guides | 223 | 94 | 91 | **408** |
-| Static Pages | ~660 | 298 | ~301 | **~1 259** |
+| Metric | tools | calc | colors | units | Total |
+|--------|------:|-----:|-------:|------:|------:|
+| Tools / Converters | 287 | 112 | 122 | 146 | **667** |
+| Wiki Articles | 114 | 94 | 90 | 154 | **452** |
+| How-To Guides | 232 | 95 | 92 | 148 | **567** |
+| Static Pages | ~633 | ~301 | ~304 | ~448 | **~1 686** |
 
 ---
 
@@ -128,11 +156,12 @@ All projects share the same modern stack:
 | 🏠 Homepage | [jarhalab.com](https://jarhalab.com) |
 | 🔧 Tools | [tools.jarhalab.com](https://tools.jarhalab.com) |
 | 🧮 Calculators | [calc.jarhalab.com](https://calc.jarhalab.com) |
-| 🎨 Colors | colors.jarhalab.com *(coming soon)* |
+| 🎨 Colors | [colors.jarhalab.com](https://colors.jarhalab.com) |
+| 📐 Units | [units.jarhalab.com](https://units.jarhalab.com) |
 
 ---
 
-More free web apps are coming soon — stay tuned at [jarhalab.com](https://jarhalab.com) for new projects and updates. 🚀
+More free web apps are coming — stay tuned at [jarhalab.com](https://jarhalab.com) for new projects and updates. 🚀
 
 ---
 
