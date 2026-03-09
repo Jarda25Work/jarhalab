@@ -14,33 +14,6 @@ Central homepage connecting all JarhaLab projects with unified navigation and di
 
 ---
 
-### 🔧 [tools.jarhalab.com](https://tools.jarhalab.com) — Online Utility Tools
-
-> **Status:** ✅ Live
-
-A fast, modern collection of **287 free online tools** for text processing, image editing, encoding, hashing, color manipulation, and developer utilities.
-
-| | Count |
-|---|------:|
-| Tools | **287** |
-| Wiki Articles | **114** |
-| How-To Guides | **232** |
-| Static Pages | **~633** |
-
-**Categories:** Text (152) · Image (49) · Developer (32) · Security (14) · Color (15) · Random (15) · Base64 Image (10)
-
-**Highlights:**
-- 🔤 Text — case converters, encoders/decoders, extractors, formatters, diff checker, Morse code, regex tester
-- 🖼️ Image — resize, compress, convert (PNG/JPG/WebP/GIF), blur, watermark, EXIF viewer, color palette
-- 🔒 Security — SHA-256/512, MD5, bcrypt, HMAC, password generator, text encryption
-- 👨‍💻 Developer — JSON/YAML/XML tools, SQL formatter, JWT decoder, crontab generator, HTTP header parser
-- 🎨 Color — contrast checker, color blindness simulator, gradient generator, palette tools
-- 🎲 Random — UUID generator, fake data, QR codes, random passwords, API keys
-
-**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
-
----
-
 ### 🧮 [calc.jarhalab.com](https://calc.jarhalab.com) — Online Calculators
 
 > **Status:** ✅ Live
@@ -120,14 +93,70 @@ Unit converters for everyday measurements with educational wiki articles and ste
 
 ---
 
+### 📋 [codes.jarhalab.com](https://codes.jarhalab.com) — Code Reference
+
+> **Status:** ✅ Live
+
+Reference database of technical codes with educational wiki articles and step-by-step guides. HTTP status codes, country codes, currency codes, and more.
+
+| | Count |
+|---|------:|
+| Codes | **552** |
+| Wiki Articles | **110** |
+| How-To Guides | **110** |
+| Static Pages | **~772** |
+
+**Categories:** Country (197) · Airport (81) · HTTP (57) · Currency (55) · Phone (52) · MIME (43) · Port (37) · Error (30)
+
+**Highlights:**
+- 🌍 Country — ISO 3166 country codes, alpha-2, alpha-3, numeric codes
+- ✈️ Airport — IATA and ICAO airport codes worldwide
+- 🌐 HTTP — status codes with descriptions, use cases, and troubleshooting
+- 💱 Currency — ISO 4217 currency codes, symbols, and country mappings
+- 📞 Phone — international dialing codes by country
+- 📧 MIME — media types for file formats and web content
+- 🔌 Port — TCP/UDP port numbers and associated services
+- ⚠️ Error — common error codes across platforms and systems
+
+**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
+
+---
+
+### 📁 [formats.jarhalab.com](https://formats.jarhalab.com) — File Formats
+
+> **Status:** ✅ Live
+
+File format reference & comparison database. Comprehensive guide to file extensions, MIME types, and format comparisons.
+
+| | Count |
+|---|------:|
+| Formats | **192** |
+| Comparisons | **108** |
+| Static Pages | **~321** |
+
+**Categories:** Code (30) · Image (23) · Document (22) · Audio (18) · Data (16) · Video (15) · Archive (14) · System (13) · Design (12) · 3D (8) · Spreadsheet (7) · Presentation (7) · Font (7)
+
+**Highlights:**
+- 💻 Code — programming language file formats (JS, TS, PY, C, Java, etc.)
+- 🖼️ Image — raster and vector image formats (PNG, JPG, SVG, WebP, etc.)
+- 📄 Document — document and text formats (PDF, DOCX, TXT, MD, etc.)
+- 🎵 Audio — audio formats (MP3, WAV, FLAC, AAC, OGG, etc.)
+- 📊 Data — data interchange formats (JSON, XML, CSV, YAML, etc.)
+- 🎬 Video — video formats (MP4, MKV, AVI, WebM, MOV, etc.)
+
+**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
+
+---
+
 ## 📊 Total Platform Stats
 
-| Metric | tools | calc | colors | units | Total |
-|--------|------:|-----:|-------:|------:|------:|
-| Tools / Converters | 287 | 112 | 122 | 146 | **667** |
-| Wiki Articles | 114 | 94 | 90 | 154 | **452** |
-| How-To Guides | 232 | 95 | 92 | 148 | **567** |
-| Static Pages | ~633 | ~301 | ~304 | ~448 | **~1 686** |
+| Metric | calc | colors | units | codes | formats | Total |
+|--------|-----:|-------:|------:|------:|--------:|------:|
+| Tools / Items | 112 | 122 | 146 | 552 | 192 | **1 124** |
+| Wiki Articles | 94 | 90 | 154 | 110 | — | **448** |
+| How-To Guides | 95 | 92 | 148 | 110 | — | **445** |
+| Comparisons | — | — | — | — | 108 | **108** |
+| Static Pages | ~301 | ~304 | ~448 | ~772 | ~321 | **~2 146** |
 
 ---
 
@@ -154,10 +183,11 @@ All projects share the same modern stack:
 | | URL |
 |---|-----|
 | 🏠 Homepage | [jarhalab.com](https://jarhalab.com) |
-| 🔧 Tools | [tools.jarhalab.com](https://tools.jarhalab.com) |
 | 🧮 Calculators | [calc.jarhalab.com](https://calc.jarhalab.com) |
 | 🎨 Colors | [colors.jarhalab.com](https://colors.jarhalab.com) |
 | 📐 Units | [units.jarhalab.com](https://units.jarhalab.com) |
+| 📋 Codes | [codes.jarhalab.com](https://codes.jarhalab.com) |
+| 📁 Formats | [formats.jarhalab.com](https://formats.jarhalab.com) |
 
 ---
 
