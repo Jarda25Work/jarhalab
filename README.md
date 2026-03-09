@@ -14,6 +14,33 @@ Central homepage connecting all JarhaLab projects with unified navigation and di
 
 ---
 
+### 🛠️ [tools.jarhalab.com](https://tools.jarhalab.com) — Online Utility Tools
+
+> **Status:** ✅ Live
+
+A fast, modern collection of **287 free online tools** for text processing, image editing, encoding, hashing, color manipulation, and developer utilities.
+
+| | Count |
+|---|------:|
+| Tools | **287** |
+| Wiki Articles | **114** |
+| How-To Guides | **232** |
+| Static Pages | **~633** |
+
+**Categories:** Text (152) · Image (49) · Developer (32) · Security (14) · Color (15) · Random (15) · Base64 Image (10)
+
+**Highlights:**
+- 🔤 Text — case converters, encoders/decoders, extractors, formatters, diff checker, Morse code, regex tester
+- 🖼️ Image — resize, compress, convert (PNG/JPG/WebP/GIF), blur, watermark, EXIF viewer, color palette
+- 🔒 Security — SHA-256/512, MD5, bcrypt, HMAC, password generator, text encryption
+- 👨‍💻 Developer — JSON/YAML/XML tools, SQL formatter, JWT decoder, crontab generator, HTTP header parser
+- 🎨 Color — contrast checker, color blindness simulator, gradient generator, palette tools
+- 🎲 Random — UUID generator, fake data, QR codes, random passwords, API keys
+
+**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
+
+---
+
 ### 🧮 [calc.jarhalab.com](https://calc.jarhalab.com) — Online Calculators
 
 > **Status:** ✅ Live
@@ -150,13 +177,13 @@ File format reference & comparison database. Comprehensive guide to file extensi
 
 ## 📊 Total Platform Stats
 
-| Metric | calc | colors | units | codes | formats | Total |
-|--------|-----:|-------:|------:|------:|--------:|------:|
-| Tools / Items | 112 | 122 | 146 | 552 | 192 | **1 124** |
-| Wiki Articles | 94 | 90 | 154 | 110 | — | **448** |
-| How-To Guides | 95 | 92 | 148 | 110 | — | **445** |
-| Comparisons | — | — | — | — | 108 | **108** |
-| Static Pages | ~301 | ~304 | ~448 | ~772 | ~321 | **~2 146** |
+| Metric | tools | calc | colors | units | codes | formats | Total |
+|--------|------:|-----:|-------:|------:|------:|--------:|------:|
+| Tools / Items | 287 | 112 | 122 | 146 | 552 | 192 | **1 411** |
+| Wiki Articles | 114 | 94 | 90 | 154 | 110 | — | **562** |
+| How-To Guides | 232 | 95 | 92 | 148 | 110 | — | **677** |
+| Comparisons | — | — | — | — | — | 108 | **108** |
+| Static Pages | ~633 | ~301 | ~304 | ~448 | ~772 | ~321 | **~2 779** |
 
 ---
 
@@ -183,6 +210,7 @@ All projects share the same modern stack:
 | | URL |
 |---|-----|
 | 🏠 Homepage | [jarhalab.com](https://jarhalab.com) |
+| 🛠️ Tools | [tools.jarhalab.com](https://tools.jarhalab.com) |
 | 🧮 Calculators | [calc.jarhalab.com](https://calc.jarhalab.com) |
 | 🎨 Colors | [colors.jarhalab.com](https://colors.jarhalab.com) |
 | 📐 Units | [units.jarhalab.com](https://units.jarhalab.com) |
