@@ -18,16 +18,16 @@ Central homepage connecting all JarhaLab projects with unified navigation and di
 
 > **Status:** ✅ Live
 
-A fast, modern collection of **287 free online tools** for text processing, image editing, encoding, hashing, color manipulation, and developer utilities.
+A fast, modern collection of **317 free online tools** for text processing, image editing, encoding, hashing, color manipulation, and developer utilities.
 
 | | Count |
 |---|------:|
-| Tools | **287** |
-| Wiki Articles | **114** |
-| How-To Guides | **232** |
-| Static Pages | **~633** |
+| Tools | **317** |
+| Wiki Articles | **154** |
+| How-To Guides | **264** |
+| Static Pages | **~735** |
 
-**Categories:** Text (152) · Image (49) · Developer (32) · Security (14) · Color (15) · Random (15) · Base64 Image (10)
+**Categories:** Text (161) · Image (48) · Developer (24) · Security (14) · Color (15) · Random (16)
 
 **Highlights:**
 - 🔤 Text — case converters, encoders/decoders, extractors, formatters, diff checker, Morse code, regex tester
@@ -49,12 +49,12 @@ Free online calculators with educational wiki articles and step-by-step guides. 
 
 | | Count |
 |---|------:|
-| Calculators | **112** |
-| Wiki Articles | **94** |
-| How-To Guides | **95** |
-| Static Pages | **~301** |
+| Calculators | **142** |
+| Wiki Articles | **124** |
+| How-To Guides | **125** |
+| Static Pages | **~391** |
 
-**Categories:** Finance (42) · Math (19) · Health (15) · Time (9) · Education (7) · Percentage (5) · Everyday (5) · Construction (4) · Age & Time (4) · Investment (2)
+**Categories:** Finance (50) · Math (24) · Health (20) · Age & Time (15) · Education (9) · Everyday (9) · Construction (8) · Percentage (5) · Investment (2)
 
 **Highlights:**
 - 💰 Finance — loan, mortgage, compound interest, salary, tax, ROI, debt payoff, retirement
@@ -74,12 +74,12 @@ Color tools and color reference database. Palettes, converters, contrast checker
 
 | | Count |
 |---|------:|
-| Tools | **122** |
-| Wiki Articles | **90** |
-| How-To Guides | **92** |
-| Static Pages | **~304** |
+| Tools | **162** |
+| Wiki Articles | **130** |
+| How-To Guides | **132** |
+| Static Pages | **~424** |
 
-**Categories:** Palette (35) · Converter (28) · Reference (19) · Mixer (17) · Accessibility (14) · Image (4) · Gradient (4) · Picker (1)
+**Categories:** Converter · Palette & Generators · Gradient · Accessibility · Mixer · Reference · Utility
 
 **Highlights:**
 - 🔄 Converter — HEX/RGB/HSL/HSV/CMYK converters, color code converter, RGBA support
@@ -100,12 +100,12 @@ Unit converters for everyday measurements with educational wiki articles and ste
 
 | | Count |
 |---|------:|
-| Converters | **146** |
-| Wiki Articles | **154** |
-| How-To Guides | **148** |
-| Static Pages | **~448** |
+| Converters | **156** |
+| Wiki Articles | **164** |
+| How-To Guides | **158** |
+| Static Pages | **~478** |
 
-**Categories:** Volume (26) · Length (26) · Weight (20) · Time (20) · Digital (18) · Area (16) · Temperature (10) · Speed (10)
+**Categories:** Length (26) · Volume (26) · Weight (20) · Time (20) · Digital (18) · Area (16) · Temperature (10) · Speed (10) · Pressure (6) · Power (2) · Fuel Economy (2)
 
 **Highlights:**
 - 📏 Length — meters, feet, inches, miles, kilometers, yards, nautical miles
@@ -128,12 +128,12 @@ Reference database of technical codes with educational wiki articles and step-by
 
 | | Count |
 |---|------:|
-| Codes | **552** |
-| Wiki Articles | **110** |
-| How-To Guides | **110** |
-| Static Pages | **~772** |
+| Codes | **562** |
+| Wiki Articles | **120** |
+| How-To Guides | **120** |
+| Static Pages | **~802** |
 
-**Categories:** Country (197) · Airport (81) · HTTP (57) · Currency (55) · Phone (52) · MIME (43) · Port (37) · Error (30)
+**Categories:** Country (197) · Airport (81) · HTTP (57) · Currency (55) · Phone (55) · MIME (45) · Port (42) · Error (30)
 
 **Highlights:**
 - 🌍 Country — ISO 3166 country codes, alpha-2, alpha-3, numeric codes
@@ -157,11 +157,11 @@ File format reference & comparison database. Comprehensive guide to file extensi
 
 | | Count |
 |---|------:|
-| Formats | **192** |
-| Comparisons | **108** |
-| Static Pages | **~321** |
+| Formats | **202** |
+| Comparisons | **128** |
+| Static Pages | **~351** |
 
-**Categories:** Code (30) · Image (23) · Document (22) · Audio (18) · Data (16) · Video (15) · Archive (14) · System (13) · Design (12) · 3D (8) · Spreadsheet (7) · Presentation (7) · Font (7)
+**Categories:** Code (30) · Image (23) · Document (24) · Audio (18) · Data (21) · Video (18) · Archive (14) · System (13) · Design (12) · 3D (8) · Spreadsheet (7) · Presentation (7) · Font (7)
 
 **Highlights:**
 - 💻 Code — programming language file formats (JS, TS, PY, C, Java, etc.)
@@ -179,13 +179,22 @@ File format reference & comparison database. Comprehensive guide to file extensi
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Tools / Items | 287 | 112 | 122 | 146 | 552 | 192 | **1 411** |
-| Wiki Articles | 114 | 94 | 90 | 154 | 110 | — | **562** |
-| How-To Guides | 232 | 95 | 92 | 148 | 110 | — | **677** |
-| Comparisons | — | — | — | — | — | 108 | **108** |
-| Static Pages | ~633 | ~301 | ~304 | ~448 | ~772 | ~321 | **~2 779** |
+| Tools / Items | 317 | 142 | 162 | 156 | 562 | 202 | **1 541** |
+| Wiki Articles | 154 | 124 | 130 | 164 | 120 | — | **692** |
+| How-To Guides | 264 | 125 | 132 | 158 | 120 | — | **799** |
+| Comparisons | — | — | — | — | — | 128 | **128** |
+| Static Pages | ~735 | ~391 | ~424 | ~478 | ~802 | ~351 | **~3 181** |
 
 ---
+
+## 🗓️ Updates
+
+- **2026-03-15** — tools: Tools **+30**, Wiki **+40**, Guides **+32**, Pages **~+102**
+- **2026-03-15** — calc: Calculators **+30**, Wiki **+30**, Guides **+30**, Pages **~+90**
+- **2026-03-15** — colors: Tools **+40**, Wiki **+40**, Guides **+40**, Pages **~+120**
+- **2026-03-15** — units: Converters **+10**, Wiki **+10**, Guides **+10**, Pages **~+30**
+- **2026-03-15** — codes: Codes **+10**, Wiki **+10**, Guides **+10**, Pages **~+30**
+- **2026-03-15** — formats: Formats **+10**, Comparisons **+20**, Pages **~+30**
 
 ## 🛡️ Privacy First
 
