@@ -190,14 +190,15 @@ File format reference & comparison database. Comprehensive guide to file extensi
 ## 🗓️ Updates
 
 - **2026-03-15** — tools: Pages **~+102**, calc:  Pages **~+90**, colors: Pages **~+120**, units: Pages **~+30**, codes: Pages **~+30**, formats: Pages **~+30**
+- **2026-03-22** — tools: Pages **+83**, calc: Pages **+60**, colors: Pages **+29**, units: Pages **+31**, codes: Pages **+30**
 
 Latest update:
-- **2026-03-22** — tools: Tools **+20**, Wiki **+30**, Guides **+30**, Pages **+83**
-- **2026-03-22** — calc: Calculators **+30**, Wiki **+20**, Guides **+18**, Pages **+60**
-- **2026-03-22** — colors: Tools **+10**, Wiki **+10**, Guides **+10**, Pages **+29**
-- **2026-03-22** — units: Converters **+10**, Wiki **+10**, Guides **+10**, Pages **+31**
-- **2026-03-22** — codes: Codes **+10**, Wiki **+10**, Guides **+10**, Pages **+30**
-- **2026-03-27** — formats: Formats **+87**, Comparisons **+59**, Pages **+151**
+- **2026-03-29** — tools: Tools **+20**, Wiki **+30**, Guides **+30**, Pages **+83**
+- **2026-03-29** — calc: Calculators **+20**, Wiki **+20**, Guides **+18**, Pages **+60**
+- **2026-03-29** — colors: Tools **+10**, Wiki **+10**, Guides **+10**, Pages **+29**
+- **2026-03-29** — units: Converters **+10**, Wiki **+10**, Guides **+10**, Pages **+31**
+- **2026-03-29** — codes: Codes **+10**, Wiki **+10**, Guides **+10**, Pages **+30**
+- **2026-03-29** — formats: Formats **+87**, Comparisons **+59**, Pages **+151**
 
 ## 🛡️ Privacy First
 
