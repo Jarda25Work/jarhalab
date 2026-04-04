@@ -1,6 +1,6 @@
-# 🌐 JarhaLab — Free Online Tools, Calculators, Color Tools & Unit Converters
+# 🌐 JarhaLab — Free Online Tools, Calculators, Color Tools, Codes, Units and Formats
 
-**JarhaLab** is a growing family of free, privacy-first web applications. Every tool runs entirely in the browser — no data is ever sent to any server.
+**JarhaLab** is a growing family of privacy-first web applications. Every project is JSON-driven, statically generated, and designed so the actual tool logic runs entirely in the browser.
 
 ---
 
@@ -18,26 +18,16 @@ Central homepage connecting all JarhaLab projects with unified navigation and di
 
 > **Status:** ✅ Live
 
-A fast, modern collection of **367 free online tools** for text processing, image editing, encoding, hashing, color manipulation, and developer utilities.
+A broad browser-side utility suite for text, image, encoding, developer, hash, SEO, and data workflows.
 
 | | Count |
 |---|------:|
-| Tools | **367** |
-| Wiki Articles | **214** |
-| How-To Guides | **324** |
-| Static Pages | **956** |
+| Tools | **377** |
+| Wiki Articles | **234** |
+| How-To Guides | **334** |
+| Static Pages | **996** |
 
-**Categories:** Text (161) · Image (48) · Developer (24) · Security (14) · Color (15) · Random (16)
-
-**Highlights:**
-- 🔤 Text — case converters, encoders/decoders, extractors, formatters, diff checker, Morse code, regex tester
-- 🖼️ Image — resize, compress, convert (PNG/JPG/WebP/GIF), blur, watermark, EXIF viewer, color palette
-- 🔒 Security — SHA-256/512, MD5, bcrypt, HMAC, password generator, text encryption
-- 👨‍💻 Developer — JSON/YAML/XML tools, SQL formatter, JWT decoder, crontab generator, HTTP header parser
-- 🎨 Color — contrast checker, color blindness simulator, gradient generator, palette tools
-- 🎲 Random — UUID generator, fake data, QR codes, random passwords, API keys
-
-**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
+**Cluster highlights:** encoder-decoder (34) · code-tools (25) · analyzer (21) · data-generators (18) · dev-converters (18)
 
 ---
 
@@ -45,24 +35,16 @@ A fast, modern collection of **367 free online tools** for text processing, imag
 
 > **Status:** ✅ Live
 
-Free online calculators with educational wiki articles and step-by-step guides. Finance, health, math, construction, and more.
+Free calculators with linked wiki articles and how-to guides across finance, math, health, and everyday decision workflows.
 
 | | Count |
 |---|------:|
-| Calculators | **192** |
-| Wiki Articles | **164** |
-| How-To Guides | **163** |
-| Static Pages | **540** |
+| Calculators | **202** |
+| Wiki Articles | **179** |
+| How-To Guides | **178** |
+| Static Pages | **580** |
 
-**Categories:** Finance (76) · Math (29) · Health (25) · Everyday (14) · Education (11) · Construction (11) · Time (9) · Age & Time (8) · Percentage (5) · Investment (2) · Statistics (2)
-
-**Highlights:**
-- 💰 Finance — loan, mortgage, compound interest, salary, tax, ROI, debt payoff, retirement
-- ❤️ Health — BMI, BMR, TDEE, calories, macros, body fat, ideal weight, heart rate zones
-- 🔢 Math — statistics, probability, GPA, fractions, binary/hex, standard deviation
-- 🏗️ Construction — concrete, paint, square footage, roof pitch
-
-**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
+**Cluster highlights:** finance (85) · math (29) · health (25) · everyday (14) · construction (11)
 
 ---
 
@@ -70,25 +52,16 @@ Free online calculators with educational wiki articles and step-by-step guides. 
 
 > **Status:** ✅ Live
 
-Color tools and color reference database. Palettes, converters, contrast checkers, mixers, and more.
+Color conversion, palette, gradient, accessibility, and design-system tools with supporting wiki and guide content.
 
 | | Count |
 |---|------:|
-| Tools | **192** |
-| Wiki Articles | **159** |
-| How-To Guides | **161** |
-| Static Pages | **546** |
+| Tools | **202** |
+| Wiki Articles | **177** |
+| How-To Guides | **178** |
+| Static Pages | **591** |
 
-**Categories:** Converter · Palette & Generators · Gradient · Accessibility · Mixer · Reference · Utility
-
-**Highlights:**
-- 🔄 Converter — HEX/RGB/HSL/HSV/CMYK converters, color code converter, RGBA support
-- 🎨 Palette — random palette, monochromatic, color blender, Tailwind & Material Design palettes
-- ♿ Accessibility — contrast ratio calculator, color blindness simulator, accessible color suggester
-- 🌈 Gradient — CSS linear, radial, and conic gradient generators
-- 📖 Reference — CSS named colors, color temperature, comprehensive wiki articles
-
-**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
+**Cluster highlights:** scheme-generators (38) · color-databases (20) · advanced-accessibility (15) · design-systems (15) · gradient-generators (15)
 
 ---
 
@@ -96,27 +69,16 @@ Color tools and color reference database. Palettes, converters, contrast checker
 
 > **Status:** ✅ Live
 
-Unit converters for everyday measurements with educational wiki articles and step-by-step guides.
+Unit converters with educational wiki and guide content for measurement, conversion, and everyday reference use cases.
 
 | | Count |
 |---|------:|
-| Converters | **176** |
-| Wiki Articles | **184** |
-| How-To Guides | **178** |
-| Static Pages | **560** |
+| Converters | **186** |
+| Wiki Articles | **193** |
+| How-To Guides | **185** |
+| Static Pages | **586** |
 
-**Categories:** Digital (26) · Length (26) · Volume (26) · Time (20) · Weight (20) · Area (16) · Temperature (12) · Speed (10) · Pressure (10) · Power (4) · Energy (4) · Fuel Economy (2)
-
-**Highlights:**
-- 📏 Length — meters, feet, inches, miles, kilometers, yards, nautical miles
-- ⚖️ Weight — kg, pounds, ounces, grams, stones, tons, troy ounces
-- 🌡️ Temperature — Celsius, Fahrenheit, Kelvin, Rankine
-- 🏎️ Speed — mph, km/h, m/s, knots, Mach
-- 🧪 Volume — liters, gallons, cups, tablespoons, fluid ounces, milliliters
-- 📐 Area — sq meters, acres, hectares, sq feet, sq kilometers
-- 💾 Digital — bytes, KB, MB, GB, TB, PB, bits, megabits
-
-**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
+**Cluster highlights:** volume (31) · length (28) · digital (26) · time (21) · weight (20)
 
 ---
 
@@ -124,28 +86,16 @@ Unit converters for everyday measurements with educational wiki articles and ste
 
 > **Status:** ✅ Live
 
-Reference database of technical codes with educational wiki articles and step-by-step guides. HTTP status codes, country codes, currency codes, and more.
+Reference database of technical codes with linked wiki articles and step-by-step guides.
 
 | | Count |
 |---|------:|
-| Codes | **582** |
-| Wiki Articles | **140** |
-| How-To Guides | **140** |
-| Static Pages | **879** |
+| Codes | **593** |
+| Wiki Articles | **162** |
+| How-To Guides | **161** |
+| Static Pages | **933** |
 
-**Categories:** Country (197) · Airport (81) · HTTP (57) · Currency (55) · Phone (55) · Port (62) · MIME (45) · Error (30)
-
-**Highlights:**
-- 🌍 Country — ISO 3166 country codes, alpha-2, alpha-3, numeric codes
-- ✈️ Airport — IATA and ICAO airport codes worldwide
-- 🌐 HTTP — status codes with descriptions, use cases, and troubleshooting
-- 💱 Currency — ISO 4217 currency codes, symbols, and country mappings
-- 📞 Phone — international dialing codes by country
-- 📧 MIME — media types for file formats and web content
-- 🔌 Port — TCP/UDP port numbers and associated services
-- ⚠️ Error — common error codes across platforms and systems
-
-**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
+**Cluster highlights:** country (197) · airport (81) · port (67) · http (59) · currency (55)
 
 ---
 
@@ -153,25 +103,15 @@ Reference database of technical codes with educational wiki articles and step-by
 
 > **Status:** ✅ Live
 
-File format reference & comparison database. Comprehensive guide to file extensions, MIME types, and format comparisons.
+File format reference and comparison database spanning 329 individual formats and 252 head-to-head comparison pages.
 
 | | Count |
 |---|------:|
-| Formats | **299** |
-| Comparisons | **207** |
-| Static Pages | **532** |
+| Formats | **329** |
+| Comparisons | **252** |
+| Static Pages | **607** |
 
-**Categories:** Code (31) · Image (37) · Data (31) · Document (27) · Video (22) · Audio (20) · System (18) · Archive (17) · Design (13) · 3D (13) · Database (10) · Security (10) · Spreadsheet (10) · Presentation (10) · Font (10) · Project (10) · Playlist (10)
-
-**Highlights:**
-- 💻 Code — programming language file formats (JS, TS, PY, C, Java, etc.)
-- 🖼️ Image — raster and vector image formats (PNG, JPG, SVG, WebP, etc.)
-- 📄 Document — document and text formats (PDF, DOCX, TXT, MD, etc.)
-- 🎵 Audio — audio formats (MP3, WAV, FLAC, AAC, OGG, etc.)
-- 📊 Data — data interchange formats (JSON, XML, CSV, YAML, etc.)
-- 🎬 Video — video formats (MP4, MKV, AVI, WebM, MOV, etc.)
-
-**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · 100% client-side
+**Cluster highlights:** image (71) · data (68) · code (52) · document (51) · 3d (50) · design (49)
 
 ---
 
@@ -179,26 +119,28 @@ File format reference & comparison database. Comprehensive guide to file extensi
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Tools / Items | 367 | 192 | 192 | 176 | 582 | 299 | **1 808** |
-| Wiki Articles | 214 | 164 | 159 | 184 | 140 | — | **861** |
-| How-To Guides | 324 | 163 | 161 | 178 | 140 | — | **966** |
-| Comparisons | — | — | — | — | — | 207 | **207** |
-| Static Pages | 956 | 540 | 546 | 560 | 879 | 532 | **4 013** |
+| Primary items | 377 | 202 | 202 | 186 | 593 | 329 | **1 889** |
+| Wiki Articles | 234 | 179 | 177 | 193 | 162 | — | **945** |
+| How-To Guides | 334 | 178 | 178 | 185 | 161 | — | **1 036** |
+| Comparisons | — | — | — | — | — | 252 | **252** |
+| Static Pages | 996 | 580 | 591 | 586 | 933 | 607 | **4 293** |
 
 ---
 
 ## 🗓️ Updates
 
-- **2026-03-15** — tools: Pages **~+102**, calc:  Pages **~+90**, colors: Pages **~+120**, units: Pages **~+30**, codes: Pages **~+30**, formats: Pages **~+30**
+- **2026-03-15** — tools: Pages **+102**, calc:  Pages **+90**, colors: Pages **+120**, units: Pages **+30**, codes: Pages **+30**, formats: Pages **+30**
 - **2026-03-22** — tools: Pages **+83**, calc: Pages **+60**, colors: Pages **+29**, units: Pages **+31**, codes: Pages **+30**
+- **2026-03-29** — tools: Pages **+83**, calc: Pages **+60**, colors: Pages **+29**, units: Pages **+31**, codes: Pages **+30**, formats: Pages **+151**
+
 
 Latest update:
-- **2026-03-29** — tools: Tools **+20**, Wiki **+30**, Guides **+30**, Pages **+83**
-- **2026-03-29** — calc: Calculators **+20**, Wiki **+20**, Guides **+18**, Pages **+60**
-- **2026-03-29** — colors: Tools **+10**, Wiki **+10**, Guides **+10**, Pages **+29**
-- **2026-03-29** — units: Converters **+10**, Wiki **+10**, Guides **+10**, Pages **+31**
-- **2026-03-29** — codes: Codes **+10**, Wiki **+10**, Guides **+10**, Pages **+30**
-- **2026-03-29** — formats: Formats **+87**, Comparisons **+59**, Pages **+151**
+- **2026-04-05** — tools: Tools **+10**, Wiki **+20**, Guides **+10**
+- **2026-04-05** — calc: Calculators **+10**, Wiki **+15**, Guides **+15**
+- **2026-04-05** — colors: Tools **+10**, Wiki **+18**, Guides **+17**
+- **2026-04-05** — units: Converters **+10**, Wiki **+9**, Guides **+7**
+- **2026-04-05** — codes: Codes **+11**, Wiki **+22**, Guides **+21**
+- **2026-04-05** — formats: Formats **+30**, Comparisons **+45**
 
 ## 🛡️ Privacy First
 
