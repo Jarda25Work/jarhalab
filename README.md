@@ -25,7 +25,7 @@ A broad browser-side utility suite for text, image, encoding, developer, hash, S
 | Tools | **388** |
 | Wiki Articles | **246** |
 | How-To Guides | **345** |
-| Static Pages | **1031** |
+| Static Pages | **1035** |
 
 **Cluster highlights:** encoder-decoder (34) · code-tools (26) · analyzer (21) · dev-converters (20) · data-generators (18)
 
@@ -93,7 +93,7 @@ Reference database of technical codes with linked wiki articles and step-by-step
 | Codes | **629** |
 | Wiki Articles | **198** |
 | How-To Guides | **197** |
-| Static Pages | **1024** |
+| Static Pages | **1046** |
 
 **Cluster highlights:** country (197) · airport (81) · port (67) · http (59) · currency (55)
 
@@ -123,7 +123,7 @@ File format reference and comparison database spanning 347 individual formats an
 | Wiki Articles | 246 | 189 | 187 | 204 | 198 | — | **1 024** |
 | How-To Guides | 345 | 188 | 188 | 198 | 197 | — | **1 116** |
 | Comparisons | — | — | — | — | — | 267 | **267** |
-| Static Pages | 1031 | 610 | 621 | 620 | 1024 | 640 | **4 546** |
+| Static Pages | 1035 | 610 | 621 | 620 | 1046 | 640 | **4 572** |
 
 ---
 
