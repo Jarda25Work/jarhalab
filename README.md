@@ -22,12 +22,12 @@ A broad browser-side utility suite for text, image, encoding, developer, hash, S
 
 | | Count |
 |---|------:|
-| Tools | **377** |
-| Wiki Articles | **234** |
-| How-To Guides | **334** |
-| Static Pages | **996** |
+| Tools | **388** |
+| Wiki Articles | **246** |
+| How-To Guides | **345** |
+| Static Pages | **1031** |
 
-**Cluster highlights:** encoder-decoder (34) · code-tools (25) · analyzer (21) · data-generators (18) · dev-converters (18)
+**Cluster highlights:** encoder-decoder (34) · code-tools (26) · analyzer (21) · dev-converters (20) · data-generators (18)
 
 ---
 
@@ -39,12 +39,12 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **202** |
-| Wiki Articles | **179** |
-| How-To Guides | **178** |
-| Static Pages | **580** |
+| Calculators | **212** |
+| Wiki Articles | **189** |
+| How-To Guides | **188** |
+| Static Pages | **610** |
 
-**Cluster highlights:** finance (85) · math (29) · health (25) · everyday (14) · construction (11)
+**Cluster highlights:** finance (89) · math (29) · health (26) · everyday (16) · construction (11)
 
 ---
 
@@ -56,12 +56,12 @@ Color conversion, palette, gradient, accessibility, and design-system tools with
 
 | | Count |
 |---|------:|
-| Tools | **202** |
-| Wiki Articles | **177** |
-| How-To Guides | **178** |
-| Static Pages | **591** |
+| Tools | **212** |
+| Wiki Articles | **187** |
+| How-To Guides | **188** |
+| Static Pages | **621** |
 
-**Cluster highlights:** scheme-generators (38) · color-databases (20) · advanced-accessibility (15) · design-systems (15) · gradient-generators (15)
+**Cluster highlights:** scheme-generators (41) · color-databases (22) · advanced-accessibility (15) · design-systems (15) · gradient-generators (15)
 
 ---
 
@@ -73,12 +73,12 @@ Unit converters with educational wiki and guide content for measurement, convers
 
 | | Count |
 |---|------:|
-| Converters | **186** |
-| Wiki Articles | **193** |
-| How-To Guides | **185** |
-| Static Pages | **586** |
+| Converters | **196** |
+| Wiki Articles | **204** |
+| How-To Guides | **198** |
+| Static Pages | **620** |
 
-**Cluster highlights:** volume (31) · length (28) · digital (26) · time (21) · weight (20)
+**Cluster highlights:** volume (31) · length (31) · digital (28) · weight (23) · time (21)
 
 ---
 
@@ -90,10 +90,10 @@ Reference database of technical codes with linked wiki articles and step-by-step
 
 | | Count |
 |---|------:|
-| Codes | **593** |
-| Wiki Articles | **162** |
-| How-To Guides | **161** |
-| Static Pages | **933** |
+| Codes | **629** |
+| Wiki Articles | **198** |
+| How-To Guides | **197** |
+| Static Pages | **1024** |
 
 **Cluster highlights:** country (197) · airport (81) · port (67) · http (59) · currency (55)
 
@@ -103,15 +103,15 @@ Reference database of technical codes with linked wiki articles and step-by-step
 
 > **Status:** ✅ Live
 
-File format reference and comparison database spanning 329 individual formats and 252 head-to-head comparison pages.
+File format reference and comparison database spanning 347 individual formats and 267 head-to-head comparison pages.
 
 | | Count |
 |---|------:|
-| Formats | **329** |
-| Comparisons | **252** |
-| Static Pages | **607** |
+| Formats | **347** |
+| Comparisons | **267** |
+| Static Pages | **640** |
 
-**Cluster highlights:** image (71) · data (68) · code (52) · document (51) · 3d (50) · design (49)
+**Cluster highlights:** data (45) · image (39) · code (31) · document (31) · design (25)
 
 ---
 
@@ -119,11 +119,11 @@ File format reference and comparison database spanning 329 individual formats an
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 377 | 202 | 202 | 186 | 593 | 329 | **1 889** |
-| Wiki Articles | 234 | 179 | 177 | 193 | 162 | — | **945** |
-| How-To Guides | 334 | 178 | 178 | 185 | 161 | — | **1 036** |
-| Comparisons | — | — | — | — | — | 252 | **252** |
-| Static Pages | 996 | 580 | 591 | 586 | 933 | 607 | **4 293** |
+| Primary items | 388 | 212 | 212 | 196 | 629 | 347 | **1 984** |
+| Wiki Articles | 246 | 189 | 187 | 204 | 198 | — | **1 024** |
+| How-To Guides | 345 | 188 | 188 | 198 | 197 | — | **1 116** |
+| Comparisons | — | — | — | — | — | 267 | **267** |
+| Static Pages | 1031 | 610 | 621 | 620 | 1024 | 640 | **4 546** |
 
 ---
 
@@ -132,15 +132,16 @@ File format reference and comparison database spanning 329 individual formats an
 - **2026-03-15** — tools: Pages **+102**, calc:  Pages **+90**, colors: Pages **+120**, units: Pages **+30**, codes: Pages **+30**, formats: Pages **+30**
 - **2026-03-22** — tools: Pages **+83**, calc: Pages **+60**, colors: Pages **+29**, units: Pages **+31**, codes: Pages **+30**
 - **2026-03-29** — tools: Pages **+83**, calc: Pages **+60**, colors: Pages **+29**, units: Pages **+31**, codes: Pages **+30**, formats: Pages **+151**
+- **2026-04-05** — tools: Pages **+40**, calc: Pages **+40**, colors: Pages **+45**, units: Pages **+26**, codes: Pages **+54**, formats: Pages **+75**
 
 
 Latest update:
-- **2026-04-05** — tools: Tools **+10**, Wiki **+20**, Guides **+10**
-- **2026-04-05** — calc: Calculators **+10**, Wiki **+15**, Guides **+15**
-- **2026-04-05** — colors: Tools **+10**, Wiki **+18**, Guides **+17**
-- **2026-04-05** — units: Converters **+10**, Wiki **+9**, Guides **+7**
-- **2026-04-05** — codes: Codes **+11**, Wiki **+22**, Guides **+21**
-- **2026-04-05** — formats: Formats **+30**, Comparisons **+45**
+- **2026-04-12** — tools: Tools **+11**, Wiki **+12**, Guides **+11**
+- **2026-04-12** — calc: Calculators **+10**, Wiki **+10**, Guides **+10**
+- **2026-04-12** — colors: Tools **+10**, Wiki **+10**, Guides **+10**
+- **2026-04-12** — units: Converters **+10**, Wiki **+11**, Guides **+13**
+- **2026-04-12** — codes: Codes **+26**, Wiki **+26**, Guides **+26**
+- **2026-04-12** — formats: Formats **+18**, Comparisons **+15**
 
 ## 🛡️ Privacy First
 
