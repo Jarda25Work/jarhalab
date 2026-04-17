@@ -122,6 +122,7 @@ File format reference and comparison database spanning 362 individual formats an
 | Primary items | 398 | 222 | 222 | 204 | 639 | 362 | **2 047** |
 | Wiki Articles | 256 | 198 | 197 | 212 | 208 | — | **1 071** |
 | How-To Guides | 355 | 198 | 198 | 206 | 207 | — | **1 164** |
+| Crosslinks | 136 | 60 | 68 | 29 | 100 | 110 | **503** |
 | Comparisons | — | — | — | — | — | 282 | **282** |
 | Static Pages | 1053 | 639 | 651 | 648 | 1076 | 670 | **4 737** |
 
@@ -137,12 +138,12 @@ File format reference and comparison database spanning 362 individual formats an
 
 
 Latest update:
-- **2026-04-18** — tools: Tools **+10**, Wiki **+10**, Guides **+10**
-- **2026-04-18** — calc: Calculators **+10**, Wiki **+9**, Guides **+10**
-- **2026-04-18** — colors: Tools **+10**, Wiki **+10**, Guides **+10**
-- **2026-04-18** — units: Converters **+8**, Wiki **+8**, Guides **+8**
-- **2026-04-18** — codes: Codes **+10**, Wiki **+10**, Guides **+10**
-- **2026-04-18** — formats: Formats **+15**, Comparisons **+15**
+- **2026-04-18** — tools: Tools **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+24**
+- **2026-04-18** — calc: Calculators **+10**, Wiki **+9**, Guides **+10**, Crosslinks **+7**
+- **2026-04-18** — colors: Tools **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+18**
+- **2026-04-18** — units: Converters **+8**, Wiki **+8**, Guides **+8**, Crosslinks **+0**
+- **2026-04-18** — codes: Codes **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+3**
+- **2026-04-18** — formats: Formats **+15**, Comparisons **+15**, Crosslinks **+6**
 
 ## 🛡️ Privacy First
 
