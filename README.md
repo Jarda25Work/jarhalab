@@ -122,9 +122,9 @@ File format reference and comparison database spanning 362 individual formats an
 | Primary items | 398 | 222 | 222 | 204 | 639 | 362 | **2 047** |
 | Wiki Articles | 256 | 198 | 197 | 212 | 208 | — | **1 071** |
 | How-To Guides | 355 | 198 | 198 | 206 | 207 | — | **1 164** |
-| Crosslinks | 136 | 60 | 68 | 29 | 100 | 110 | **503** |
 | Comparisons | — | — | — | — | — | 282 | **282** |
 | Static Pages | 1053 | 639 | 651 | 648 | 1076 | 670 | **4 737** |
+| Crosslinks (outbound) | 136 | 60 | 68 | 29 | 100 | 110 | **503** |
 
 ---
 
