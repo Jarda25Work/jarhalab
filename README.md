@@ -10,7 +10,7 @@
 
 > **Status:** ✅ Live
 
-Central homepage connecting all JarhaLab projects with unified navigation and discovery.
+Central homepage for the JarhaLab platform, connecting the full family of tools, calculators, references, and format guides.
 
 ---
 
@@ -18,16 +18,16 @@ Central homepage connecting all JarhaLab projects with unified navigation and di
 
 > **Status:** ✅ Live
 
-A broad browser-side utility suite for text, image, encoding, developer, hash, SEO, and data workflows.
+A broad browser-side utility suite for text processing, image workflows, encoding, hashing, developer debugging, SEO, and practical data workflows.
 
 | | Count |
 |---|------:|
-| Tools | **398** |
-| Wiki Articles | **256** |
-| How-To Guides | **355** |
-| Static Pages | **1053** |
+| Tools | **408** |
+| Wiki Articles | **266** |
+| How-To Guides | **365** |
+| Static Pages | **1095** |
 
-**Cluster highlights:** encoder-decoder (34) · code-tools (30) · dev-converters (22) · analyzer (21) · data-generators (18)
+**Cluster highlights:** code-tools (34) · encoder-decoder (34) · dev-converters (24) · analyzer (21) · data-generators (18)
 
 ---
 
@@ -35,16 +35,16 @@ A broad browser-side utility suite for text, image, encoding, developer, hash, S
 
 > **Status:** ✅ Live
 
-Free calculators with linked wiki articles and how-to guides across finance, math, health, and everyday decision workflows.
+Free calculators with linked wiki articles and how-to guides across finance, math, health, construction, and everyday planning workflows.
 
 | | Count |
 |---|------:|
-| Calculators | **222** |
-| Wiki Articles | **198** |
-| How-To Guides | **198** |
-| Static Pages | **639** |
+| Calculators | **232** |
+| Wiki Articles | **208** |
+| How-To Guides | **208** |
+| Static Pages | **669** |
 
-**Cluster highlights:** finance (96) · math (29) · health (26) · everyday (17) · construction (12)
+**Cluster highlights:** finance (101) · math (29) · health (26) · everyday (18) · construction (12)
 
 ---
 
@@ -52,16 +52,16 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 > **Status:** ✅ Live
 
-Color conversion, palette, gradient, accessibility, and design-system tools with supporting wiki and guide content.
+Color tools and reference guides for palettes, accessibility, gamut checks, print workflows, gradients, and design-system color decisions.
 
 | | Count |
 |---|------:|
-| Tools | **222** |
-| Wiki Articles | **197** |
-| How-To Guides | **198** |
-| Static Pages | **651** |
+| Tools | **232** |
+| Wiki Articles | **207** |
+| How-To Guides | **208** |
+| Static Pages | **681** |
 
-**Cluster highlights:** scheme-generators (41) · color-databases (24) · advanced-accessibility (18) · cmyk-advanced (16) · design-systems (15)
+**Cluster highlights:** scheme-generators (41) · advanced-accessibility (24) · color-databases (24) · cmyk-advanced (16) · color-analysis (15)
 
 ---
 
@@ -69,14 +69,14 @@ Color conversion, palette, gradient, accessibility, and design-system tools with
 
 > **Status:** ✅ Live
 
-Unit converters with educational wiki and guide content for measurement, conversion, and everyday reference use cases.
+Unit converters with educational wiki and guide content for everyday, technical, and engineering measurement use cases.
 
 | | Count |
 |---|------:|
-| Converters | **204** |
-| Wiki Articles | **212** |
-| How-To Guides | **206** |
-| Static Pages | **648** |
+| Converters | **214** |
+| Wiki Articles | **222** |
+| How-To Guides | **216** |
+| Static Pages | **678** |
 
 **Cluster highlights:** volume (32) · length (31) · digital (28) · weight (23) · time (21)
 
@@ -86,16 +86,16 @@ Unit converters with educational wiki and guide content for measurement, convers
 
 > **Status:** ✅ Live
 
-Reference database of technical codes with linked wiki articles and step-by-step guides.
+Reference database for technical and structured codes with linked wiki articles and guides across HTTP, ports, countries, currencies, MIME types, governance, and protocol lookups.
 
 | | Count |
 |---|------:|
-| Codes | **639** |
-| Wiki Articles | **208** |
-| How-To Guides | **207** |
-| Static Pages | **1076** |
+| Codes | **649** |
+| Wiki Articles | **218** |
+| How-To Guides | **217** |
+| Static Pages | **1106** |
 
-**Cluster highlights:** country (197) · airport (81) · port (67) · http (59) · currency (55)
+**Cluster highlights:** country (197) · airport (81) · port (76) · http (60) · currency (55)
 
 ---
 
@@ -103,15 +103,15 @@ Reference database of technical codes with linked wiki articles and step-by-step
 
 > **Status:** ✅ Live
 
-File format reference and comparison database spanning 362 individual formats and 282 head-to-head comparison pages.
+File format reference and comparison database spanning 382 individual formats and 302 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
 | | Count |
 |---|------:|
-| Formats | **362** |
-| Comparisons | **282** |
-| Static Pages | **670** |
+| Formats | **382** |
+| Comparisons | **302** |
+| Static Pages | **710** |
 
-**Cluster highlights:** data (45) · image (39) · code (31) · document (31) · design (25)
+**Cluster highlights:** data (77) · image (42) · code (31) · document (31) · design (25)
 
 ---
 
@@ -119,12 +119,12 @@ File format reference and comparison database spanning 362 individual formats an
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 398 | 222 | 222 | 204 | 639 | 362 | **2 047** |
-| Wiki Articles | 256 | 198 | 197 | 212 | 208 | — | **1 071** |
-| How-To Guides | 355 | 198 | 198 | 206 | 207 | — | **1 164** |
-| Comparisons | — | — | — | — | — | 282 | **282** |
-| Static Pages | 1053 | 639 | 651 | 648 | 1076 | 670 | **4 737** |
-| Crosslinks (outbound) | 136 | 60 | 68 | 29 | 100 | 110 | **503** |
+| Primary items | 408 | 232 | 232 | 214 | 649 | 382 | **2 117** |
+| Wiki Articles | 266 | 208 | 207 | 222 | 218 | — | **1 121** |
+| How-To Guides | 365 | 208 | 208 | 216 | 217 | — | **1 214** |
+| Comparisons | — | — | — | — | — | 302 | **302** |
+| Static Pages | 1095 | 669 | 681 | 678 | 1106 | 710 | **4 939** |
+| Crosslinks (outbound) | 169 | 88 | 96 | 49 | 127 | 129 | **658** |
 
 ---
 
@@ -135,15 +135,16 @@ File format reference and comparison database spanning 362 individual formats an
 - **2026-03-29** — tools: Pages **+83**, calc: Pages **+60**, colors: Pages **+29**, units: Pages **+31**, codes: Pages **+30**, formats: Pages **+151**
 - **2026-04-05** — tools: Pages **+40**, calc: Pages **+40**, colors: Pages **+45**, units: Pages **+26**, codes: Pages **+54**, formats: Pages **+75**
 - **2026-04-12** — tools: Pages **+34**, calc: Pages **+30**, colors: Pages **+30**, units: Pages **+34**, codes: Pages **+78**, formats: Pages **+33**
+- **2026-04-18** — tools: Pages **+30**, calc: Pages **+29**, colors: Pages **+30**, units: Pages **+24**, codes: Pages **+30**, formats: Pages **+30**
 
 
 Latest update:
-- **2026-04-18** — tools: Tools **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+24**
-- **2026-04-18** — calc: Calculators **+10**, Wiki **+9**, Guides **+10**, Crosslinks **+7**
-- **2026-04-18** — colors: Tools **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+18**
-- **2026-04-18** — units: Converters **+8**, Wiki **+8**, Guides **+8**, Crosslinks **+0**
-- **2026-04-18** — codes: Codes **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+3**
-- **2026-04-18** — formats: Formats **+15**, Comparisons **+15**, Crosslinks **+6**
+- **2026-04-25** — tools: Tools **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+33**
+- **2026-04-25** — calc: Calculators **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+28**
+- **2026-04-25** — colors: Tools **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+28**
+- **2026-04-25** — units: Converters **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+20**
+- **2026-04-25** — codes: Codes **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+27**
+- **2026-04-25** — formats: Formats **+20**, Comparisons **+20**, Crosslinks **+19**
 
 ## 🛡️ Privacy First
 
