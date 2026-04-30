@@ -1,6 +1,6 @@
-# 🌐 JarhaLab — Free Online Tools, Calculators, Color Tools, Codes, Units and Formats
+# 🌐 JarhaLab — Free Online Tools, Calculators, Colors, Codes, Units, and Formats
 
-**JarhaLab** is a growing family of privacy-first web applications. Every project is JSON-driven, statically generated, and designed so the actual tool logic runs entirely in the browser.
+**JarhaLab** is a growing family of privacy-first web applications. Every project is JSON-driven, statically generated, and built so the actual tool logic runs entirely in the browser.
 
 ---
 
@@ -22,12 +22,12 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 | | Count |
 |---|------:|
-| Tools | **408** |
-| Wiki Articles | **266** |
-| How-To Guides | **365** |
-| Static Pages | **1095** |
+| Tools | **418** |
+| Wiki Articles | **276** |
+| How-To Guides | **375** |
+| Static Pages | **1114** |
 
-**Cluster highlights:** code-tools (34) · encoder-decoder (34) · dev-converters (24) · analyzer (21) · data-generators (18)
+**Cluster highlights:** code-tools (37) · encoder-decoder (34) · dev-converters (28) · analyzer (21) · data-generators (18)
 
 ---
 
@@ -39,12 +39,12 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **232** |
-| Wiki Articles | **208** |
-| How-To Guides | **208** |
-| Static Pages | **669** |
+| Calculators | **242** |
+| Wiki Articles | **218** |
+| How-To Guides | **218** |
+| Static Pages | **700** |
 
-**Cluster highlights:** finance (101) · math (29) · health (26) · everyday (18) · construction (12)
+**Cluster highlights:** finance (111) · math (29) · health (26) · everyday (18) · construction (12)
 
 ---
 
@@ -56,12 +56,12 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 | | Count |
 |---|------:|
-| Tools | **232** |
-| Wiki Articles | **207** |
-| How-To Guides | **208** |
-| Static Pages | **681** |
+| Tools | **242** |
+| Wiki Articles | **217** |
+| How-To Guides | **218** |
+| Static Pages | **712** |
 
-**Cluster highlights:** scheme-generators (41) · advanced-accessibility (24) · color-databases (24) · cmyk-advanced (16) · color-analysis (15)
+**Cluster highlights:** scheme-generators (41) · advanced-accessibility (27) · color-databases (24) · cmyk-advanced (16) · color-analysis (16)
 
 ---
 
@@ -73,10 +73,10 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 | | Count |
 |---|------:|
-| Converters | **214** |
-| Wiki Articles | **222** |
-| How-To Guides | **216** |
-| Static Pages | **678** |
+| Converters | **224** |
+| Wiki Articles | **232** |
+| How-To Guides | **226** |
+| Static Pages | **709** |
 
 **Cluster highlights:** volume (32) · length (31) · digital (28) · weight (23) · time (21)
 
@@ -90,10 +90,10 @@ Reference database for technical and structured codes with linked wiki articles 
 
 | | Count |
 |---|------:|
-| Codes | **649** |
-| Wiki Articles | **218** |
-| How-To Guides | **217** |
-| Static Pages | **1106** |
+| Codes | **659** |
+| Wiki Articles | **228** |
+| How-To Guides | **280** |
+| Static Pages | **1190** |
 
 **Cluster highlights:** country (197) · airport (81) · port (76) · http (60) · currency (55)
 
@@ -103,15 +103,15 @@ Reference database for technical and structured codes with linked wiki articles 
 
 > **Status:** ✅ Live
 
-File format reference and comparison database spanning 382 individual formats and 302 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
+File format reference and comparison database spanning 404 individual formats and 322 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
 | | Count |
 |---|------:|
-| Formats | **382** |
-| Comparisons | **302** |
-| Static Pages | **710** |
+| Formats | **404** |
+| Comparisons | **322** |
+| Static Pages | **753** |
 
-**Cluster highlights:** data (77) · image (42) · code (31) · document (31) · design (25)
+**Cluster highlights:** data (90) · image (42) · code (31) · document (31) · system (26)
 
 ---
 
@@ -119,32 +119,33 @@ File format reference and comparison database spanning 382 individual formats an
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 408 | 232 | 232 | 214 | 649 | 382 | **2 117** |
-| Wiki Articles | 266 | 208 | 207 | 222 | 218 | — | **1 121** |
-| How-To Guides | 365 | 208 | 208 | 216 | 217 | — | **1 214** |
-| Comparisons | — | — | — | — | — | 302 | **302** |
-| Static Pages | 1095 | 669 | 681 | 678 | 1106 | 710 | **4 939** |
-| Crosslinks (outbound) | 169 | 88 | 96 | 49 | 127 | 129 | **658** |
+| Primary items | 418 | 242 | 242 | 224 | 659 | 404 | **2 189** |
+| Wiki Articles | 276 | 218 | 217 | 232 | 228 | — | **1 171** |
+| How-To Guides | 375 | 218 | 218 | 226 | 280 | — | **1 317** |
+| Comparisons | — | — | — | — | — | 322 | **322** |
+| Static Pages | 1114 | 700 | 712 | 709 | 1190 | 753 | **5 178** |
+| Crosslinks (outbound) | 219 | 101 | 106 | 65 | 141 | 181 | **813** |
 
 ---
 
-## 🗓️ Updates
+## 🗓️ Latest Update
 
+- **2026-05-02** — tools: Tools **+10**, Wiki **+10**, Guides **+10**, Content Pages **+30**, Crosslinks **+50**
+- **2026-05-02** — calc: Calculators **+10**, Wiki **+10**, Guides **+10**, Content Pages **+30**, Crosslinks **+13**
+- **2026-05-02** — colors: Tools **+10**, Wiki **+10**, Guides **+10**, Content Pages **+30**, Crosslinks **+10**
+- **2026-05-02** — units: Converters **+10**, Wiki **+10**, Guides **+10**, Content Pages **+30**, Crosslinks **+16**
+- **2026-05-02** — codes: Codes **+10**, Wiki **+10**, Guides **+10**, Content Pages **+30**, Crosslinks **+14**
+- **2026-05-02** — formats: Formats **+21**, Comparisons **+20**, Content Pages **+41**, Crosslinks **+52**
+
+## Old Updates
+
+- **2026-04-25** — platform content wave: tools, calc, colors, units, and codes each added **+10** primary items, **+10** wiki articles, and **+10** guides; formats added **+20** formats and **+20** comparisons; outbound crosslinks expanded across all six sites.
 - **2026-03-15** — tools: Pages **+102**, calc:  Pages **+90**, colors: Pages **+120**, units: Pages **+30**, codes: Pages **+30**, formats: Pages **+30**
 - **2026-03-22** — tools: Pages **+83**, calc: Pages **+60**, colors: Pages **+29**, units: Pages **+31**, codes: Pages **+30**
 - **2026-03-29** — tools: Pages **+83**, calc: Pages **+60**, colors: Pages **+29**, units: Pages **+31**, codes: Pages **+30**, formats: Pages **+151**
 - **2026-04-05** — tools: Pages **+40**, calc: Pages **+40**, colors: Pages **+45**, units: Pages **+26**, codes: Pages **+54**, formats: Pages **+75**
 - **2026-04-12** — tools: Pages **+34**, calc: Pages **+30**, colors: Pages **+30**, units: Pages **+34**, codes: Pages **+78**, formats: Pages **+33**
 - **2026-04-18** — tools: Pages **+30**, calc: Pages **+29**, colors: Pages **+30**, units: Pages **+24**, codes: Pages **+30**, formats: Pages **+30**
-
-
-Latest update:
-- **2026-04-25** — tools: Tools **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+33**
-- **2026-04-25** — calc: Calculators **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+28**
-- **2026-04-25** — colors: Tools **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+28**
-- **2026-04-25** — units: Converters **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+20**
-- **2026-04-25** — codes: Codes **+10**, Wiki **+10**, Guides **+10**, Crosslinks **+27**
-- **2026-04-25** — formats: Formats **+20**, Comparisons **+20**, Crosslinks **+19**
 
 ## 🛡️ Privacy First
 
