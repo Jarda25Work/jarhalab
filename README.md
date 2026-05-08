@@ -130,7 +130,7 @@ File format reference and comparison database spanning 407 individual formats an
 
 ## 🗓️ Latest Update
 
-- **2026-05-08** — tools, calc, colors, units, and codes each added **+2** primary items, **+2** wiki articles, and **+2** guides; formats added **+3** formats and **+3** comparisons; outbound crosslinks increased by **+47** tools, **+12** calc, **+12** colors, **+14** units, **+20** codes, and **+42** formats.
+- **2026-05-09** — tools, calc, colors, units, and codes each added **+2** primary items, **+2** wiki articles, and **+2** guides; formats added **+3** formats and **+3** comparisons; outbound crosslinks increased by **+47** tools, **+12** calc, **+12** colors, **+14** units, **+20** codes, and **+42** formats.
 
 ## Old Updates
 
