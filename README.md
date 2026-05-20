@@ -124,7 +124,7 @@ File format reference and comparison database spanning 427 individual formats an
 | How-To Guides | 387 | 230 | 230 | 238 | 292 | — | **1 377** |
 | Comparisons | — | — | — | — | — | 345 | **345** |
 | Static Pages | 1150 | 737 | 748 | 742 | 1226 | 799 | **5 402** |
-| Crosslinks (outbound) | 328 | 131 | 143 | 94 | 194 | 274 | **1 164** |
+| Crosslinks (outbound) | 334 | 131 | 133 | 94 | 194 | 278 | **1 164** |
 
 ---
 
