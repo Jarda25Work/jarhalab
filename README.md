@@ -22,12 +22,12 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 | | Count |
 |---|------:|
-| Tools | **430** |
-| Wiki Articles | **288** |
-| How-To Guides | **387** |
-| Static Pages | **1150** |
+| Tools | **435** |
+| Wiki Articles | **293** |
+| How-To Guides | **392** |
+| Static Pages | **1165** |
 
-**Cluster highlights:** code-tools (37) · encoder-decoder (34) · dev-converters (30) · analyzer (21) · data-generators (18)
+**Cluster highlights:** code-tools (41) · encoder-decoder (34) · dev-converters (35) · analyzer (21) · data-generators (18)
 
 ---
 
@@ -39,10 +39,10 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **254** |
-| Wiki Articles | **230** |
-| How-To Guides | **230** |
-| Static Pages | **737** |
+| Calculators | **259** |
+| Wiki Articles | **235** |
+| How-To Guides | **235** |
+| Static Pages | **752** |
 
 **Cluster highlights:** finance (118) · math (29) · health (26) · everyday (18) · construction (12)
 
@@ -56,12 +56,12 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 | | Count |
 |---|------:|
-| Tools | **254** |
-| Wiki Articles | **229** |
-| How-To Guides | **230** |
-| Static Pages | **748** |
+| Tools | **259** |
+| Wiki Articles | **234** |
+| How-To Guides | **235** |
+| Static Pages | **763** |
 
-**Cluster highlights:** scheme-generators (41) · advanced-accessibility (29) · color-databases (24) · cmyk-advanced (16) · color-analysis (16)
+**Cluster highlights:** scheme-generators (42) · advanced-accessibility (29) · color-databases (27) · color-analysis (18) · design-systems (18)
 
 ---
 
@@ -73,10 +73,10 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 | | Count |
 |---|------:|
-| Converters | **234** |
-| Wiki Articles | **243** |
-| How-To Guides | **238** |
-| Static Pages | **742** |
+| Converters | **239** |
+| Wiki Articles | **248** |
+| How-To Guides | **243** |
+| Static Pages | **757** |
 
 **Cluster highlights:** volume (32) · length (31) · digital (28) · weight (23) · time (21)
 
@@ -90,12 +90,12 @@ Reference database for technical and structured codes with linked wiki articles 
 
 | | Count |
 |---|------:|
-| Codes | **671** |
-| Wiki Articles | **240** |
-| How-To Guides | **292** |
-| Static Pages | **1226** |
+| Codes | **676** |
+| Wiki Articles | **245** |
+| How-To Guides | **297** |
+| Static Pages | **1241** |
 
-**Cluster highlights:** country (197) · airport (81) · port (76) · http (60) · currency (55)
+**Cluster highlights:** country (197) · airport (81) · port (79) · http (60) · currency (55)
 
 ---
 
@@ -103,15 +103,15 @@ Reference database for technical and structured codes with linked wiki articles 
 
 > **Status:** ✅ Live
 
-File format reference and comparison database spanning 427 individual formats and 345 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
+File format reference and comparison database spanning 437 individual formats and 350 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
 | | Count |
 |---|------:|
-| Formats | **427** |
-| Comparisons | **345** |
-| Static Pages | **799** |
+| Formats | **437** |
+| Comparisons | **350** |
+| Static Pages | **814** |
 
-**Cluster highlights:** data (93) · image (42) · code (31) · document (31) · system (27)
+**Cluster highlights:** data (98) · image (42) · code (31) · document (31) · system (32)
 
 ---
 
@@ -119,21 +119,22 @@ File format reference and comparison database spanning 427 individual formats an
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 430 | 254 | 254 | 234 | 671 | 427 | **2 270** |
-| Wiki Articles | 288 | 230 | 229 | 243 | 240 | — | **1 230** |
-| How-To Guides | 387 | 230 | 230 | 238 | 292 | — | **1 377** |
-| Comparisons | — | — | — | — | — | 345 | **345** |
-| Static Pages | 1150 | 737 | 748 | 742 | 1226 | 799 | **5 402** |
-| Crosslinks (outbound) | 334 | 131 | 133 | 94 | 194 | 278 | **1 164** |
+| Primary items | 435 | 259 | 259 | 239 | 676 | 437 | **2 305** |
+| Wiki Articles | 293 | 235 | 234 | 248 | 245 | — | **1 255** |
+| How-To Guides | 392 | 235 | 235 | 243 | 297 | — | **1 402** |
+| Comparisons | — | — | — | — | — | 350 | **350** |
+| Static Pages | 1165 | 752 | 763 | 757 | 1241 | 814 | **5 492** |
+| Crosslinks (outbound) | 359 | 140 | 142 | 103 | 212 | 316 | **1 272** |
 
 ---
 
 ## 🗓️ Latest Update
 
-- **2026-05-23** — tools, calc, colors, and codes each added **+5** primary items, **+5** wiki articles, and **+5** guides; units added **+3** converters, **+4** wiki articles, and **+5** guides; formats added **+10** formats and **+10** comparisons; outbound crosslinks increased by **+21** tools, **+9** calc, **+19** colors, **+12** units, **+21** codes, and **+36** formats.
+- **2026-05-30** — tools, calc, colors, units, and codes each added **+5** primary items, **+5** wiki articles, and **+5** guides; formats added **+10** formats and **+5** comparisons; outbound crosslinks increased by **+25** tools, **+9** calc, **+9** colors, **+9** units, **+18** codes, and **+38** formats.
 
 ## Old Updates
 
+- **2026-05-23** — tools, calc, colors, and codes each added **+5** primary items, **+5** wiki articles, and **+5** guides; units added **+3** converters, **+4** wiki articles, and **+5** guides; formats added **+10** formats and **+10** comparisons; outbound crosslinks increased by **+21** tools, **+9** calc, **+19** colors, **+12** units, **+21** codes, and **+36** formats.
 - **2026-05-16** — tools, calc, colors, units, and codes each added **+5** primary items, **+5** wiki articles, and **+5** guides; formats added **+10** formats and **+10** comparisons; outbound crosslinks increased by **+41** tools, **+9** calc, **+6** colors, **+3** units, **+12** codes, and **+15** formats.
 - **2026-05-09** — tools, calc, colors, units, and codes each added **+2** primary items, **+2** wiki articles, and **+2** guides; formats added **+3** formats and **+3** comparisons; outbound crosslinks increased by **+47** tools, **+12** calc, **+12** colors, **+14** units, **+20** codes, and **+42** formats.
 - **2026-05-02** — platform content wave: tools, calc, colors, units, and codes each added **+10** primary items, **+10** wiki articles, and **+10** guides; formats added **+21** formats and **+20** comparisons; outbound crosslinks expanded across all six sites.
