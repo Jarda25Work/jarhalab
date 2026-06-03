@@ -130,10 +130,16 @@ File format reference and comparison database spanning 442 individual formats an
 
 ## 🗓️ Latest Update
 
-- **2026-05-30** — tools, calc, colors, units, and codes each added **+5** primary items, **+5** wiki articles, and **+5** guides; formats added **+10** formats and **+5** comparisons; outbound crosslinks increased by **+25** tools, **+9** calc, **+9** colors, **+9** units, **+18** codes, and **+38** formats.
+- **2026-06-03**
+  - **Infra (Track 0):** trust pages on all six subdomains; `TechArticle` / `DefinedTerm` JSON-LD; `entity` + `quickAnswer` + `sources`; unified **Reviewed by · Last updated** line; `llms.txt`; OG image fallback (units catch-up); calc YMYL disclaimer; codes `/government-identifier-policy` + `/disclaimer`; tools `/privacy-and-browser-execution`.
+  - **Content (Track 1):** tools, calc, colors, units, and codes each **+5** primary / **+5** wiki / **+5** guides; formats **+5** formats and **+5** comparisons; **10** GSC-led priority rewrites per site; Section C cross-web links (MKV/Matroska MIME cluster).
+  - **Docs:** content plans renamed to `20260603`; SEO audit closure §6/§9 on all six sites.
 
-## Old Updates
+## Updates
 
+- **2026-05-30**
+  - **Content:** tools, calc, colors, units, and codes each **+5** primary / **+5** wiki / **+5** guides; formats **+10** formats and **+5** comparisons.
+  - **Crosslinks:** outbound **+25** tools · **+9** calc · **+9** colors · **+9** units · **+18** codes · **+38** formats.
 - **2026-05-23** — tools, calc, colors, and codes each added **+5** primary items, **+5** wiki articles, and **+5** guides; units added **+3** converters, **+4** wiki articles, and **+5** guides; formats added **+10** formats and **+10** comparisons; outbound crosslinks increased by **+21** tools, **+9** calc, **+19** colors, **+12** units, **+21** codes, and **+36** formats.
 - **2026-05-16** — tools, calc, colors, units, and codes each added **+5** primary items, **+5** wiki articles, and **+5** guides; formats added **+10** formats and **+10** comparisons; outbound crosslinks increased by **+41** tools, **+9** calc, **+6** colors, **+3** units, **+12** codes, and **+15** formats.
 - **2026-05-09** — tools, calc, colors, units, and codes each added **+2** primary items, **+2** wiki articles, and **+2** guides; formats added **+3** formats and **+3** comparisons; outbound crosslinks increased by **+47** tools, **+12** calc, **+12** colors, **+14** units, **+20** codes, and **+42** formats.
