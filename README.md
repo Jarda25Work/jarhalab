@@ -22,10 +22,10 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 | | Count |
 |---|------:|
-| Tools | **440** |
-| Wiki Articles | **298** |
-| How-To Guides | **397** |
-| Static Pages | **1135** |
+| Tools | **444** |
+| Wiki Articles | **303** |
+| How-To Guides | **402** |
+| Static Pages | **1149** |
 
 **Cluster highlights:** code-tools (41) · encoder-decoder (34) · dev-converters (35) · analyzer (21) · data-generators (18)
 
@@ -39,10 +39,10 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **264** |
-| Wiki Articles | **240** |
-| How-To Guides | **240** |
-| Static Pages | **744** |
+| Calculators | **268** |
+| Wiki Articles | **245** |
+| How-To Guides | **245** |
+| Static Pages | **758** |
 
 **Cluster highlights:** finance (118) · math (29) · health (26) · everyday (18) · construction (12)
 
@@ -56,10 +56,10 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 | | Count |
 |---|------:|
-| Tools | **264** |
-| Wiki Articles | **239** |
-| How-To Guides | **240** |
-| Static Pages | **743** |
+| Tools | **269** |
+| Wiki Articles | **244** |
+| How-To Guides | **245** |
+| Static Pages | **758** |
 
 **Cluster highlights:** scheme-generators (42) · advanced-accessibility (29) · color-databases (27) · color-analysis (18) · design-systems (18)
 
@@ -73,10 +73,10 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 | | Count |
 |---|------:|
-| Converters | **244** |
-| Wiki Articles | **253** |
-| How-To Guides | **248** |
-| Static Pages | **745** |
+| Converters | **248** |
+| Wiki Articles | **258** |
+| How-To Guides | **253** |
+| Static Pages | **759** |
 
 **Cluster highlights:** volume (32) · length (31) · digital (28) · weight (23) · time (21)
 
@@ -90,10 +90,10 @@ Reference database for technical and structured codes with linked wiki articles 
 
 | | Count |
 |---|------:|
-| Codes | **682** |
-| Wiki Articles | **250** |
-| How-To Guides | **302** |
-| Static Pages | **1234** |
+| Codes | **687** |
+| Wiki Articles | **255** |
+| How-To Guides | **307** |
+| Static Pages | **1249** |
 
 **Cluster highlights:** country (197) · airport (81) · port (79) · http (60) · currency (55)
 
@@ -107,9 +107,9 @@ File format reference and comparison database spanning 442 individual formats an
 
 | | Count |
 |---|------:|
-| Formats | **442** |
-| Comparisons | **355** |
-| Static Pages | **797** |
+| Formats | **447** |
+| Comparisons | **360** |
+| Static Pages | **807** |
 
 **Cluster highlights:** data (98) · image (42) · code (31) · document (31) · system (32)
 
@@ -119,23 +119,30 @@ File format reference and comparison database spanning 442 individual formats an
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 440 | 264 | 264 | 244 | 682 | 442 | **2 336** |
-| Wiki Articles | 298 | 240 | 239 | 253 | 250 | — | **1 280** |
-| How-To Guides | 397 | 240 | 240 | 248 | 302 | — | **1 427** |
-| Comparisons | — | — | — | — | — | 355 | **355** |
-| Static Pages | 1135 | 744 | 743 | 745 | 1234 | 797 | **5 398** |
-| Crosslinks (outbound) | 359 | 140 | 142 | 103 | 212 | 316 | **1 272** |
+| Primary items | 444 | 268 | 269 | 248 | 687 | 447 | **2 363** |
+| Wiki Articles | 303 | 245 | 244 | 258 | 255 | — | **1 305** |
+| How-To Guides | 402 | 245 | 245 | 253 | 307 | — | **1 452** |
+| Comparisons | — | — | — | — | — | 360 | **360** |
+| Static Pages | 1149 | 758 | 758 | 759 | 1249 | 807 | **5 480** |
+| Crosslinks (outbound) | 389 | 174 | 173 | 125 | 230 | 344 | **1 435** |
 
 ---
 
 ## 🗓️ Latest Update
 
+- **2026-06-04**
+  - **Track 0R rollout:** entity grounding + sources batch — **69** formats · **34** calc · **48** codes · **49** colors · **60** tools · **55** units (~315 pages with Wikipedia/Wikidata sameAs + authoritative specs).
+  - **Content (Track 1):** tools, calc, colors, units, and codes each **+5** primary / **+5** wiki / **+5** guides; formats **+5** formats and **+5** comparisons; **10** priority rewrites per site; category hub enrichments (audio, finance, financial-identifiers, print-production, data-parsers, water-quality).
+  - **Title optimization:** F1 phase rollout (~50 priority URLs with `titleVariant: "intent"`); 7-day measurement window.
+  - **Cross-web linking (Section C):** cluster bidirectional wiring via registry keys + `crossLinks`; outbound **+30** tools · **+34** calc · **+31** colors · **+22** units · **+18** codes · **+28** formats.
+  - **Docs:** content plans renamed to `20260604`; SEO audit §7/§10 cross-project status report; d0b-retro-audit updated.
+
+## Updates
+
 - **2026-06-03**
   - **Infra (Track 0):** trust pages on all six subdomains; `TechArticle` / `DefinedTerm` JSON-LD; `entity` + `quickAnswer` + `sources`; unified **Reviewed by · Last updated** line; `llms.txt`; OG image fallback (units catch-up); calc YMYL disclaimer; codes `/government-identifier-policy` + `/disclaimer`; tools `/privacy-and-browser-execution`.
   - **Content (Track 1):** tools, calc, colors, units, and codes each **+5** primary / **+5** wiki / **+5** guides; formats **+5** formats and **+5** comparisons; **10** GSC-led priority rewrites per site; Section C cross-web links (MKV/Matroska MIME cluster).
   - **Docs:** content plans renamed to `20260603`; SEO audit closure §6/§9 on all six sites.
-
-## Updates
 
 - **2026-05-30**
   - **Content:** tools, calc, colors, units, and codes each **+5** primary / **+5** wiki / **+5** guides; formats **+10** formats and **+5** comparisons.
