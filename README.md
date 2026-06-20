@@ -22,10 +22,10 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 | | Count |
 |---|------:|
-| Tools | **449** |
-| Wiki Articles | **308** |
-| How-To Guides | **407** |
-| Static Pages | **1164** |
+| Tools | **454** |
+| Wiki Articles | **313** |
+| How-To Guides | **412** |
+| Static Pages | **1179** |
 
 **Cluster highlights:** code-tools (41) · encoder-decoder (34) · dev-converters (33) · analyzer (21) · data-generators (18)
 
@@ -39,10 +39,10 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **273** |
-| Wiki Articles | **250** |
-| How-To Guides | **250** |
-| Static Pages | **773** |
+| Calculators | **277** |
+| Wiki Articles | **255** |
+| How-To Guides | **254** |
+| Static Pages | **786** |
 
 **Cluster highlights:** finance (131) · math (29) · health (26) · everyday (18) · construction (12)
 
@@ -56,10 +56,10 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 | | Count |
 |---|------:|
-| Tools | **274** |
-| Wiki Articles | **249** |
-| How-To Guides | **250** |
-| Static Pages | **773** |
+| Tools | **279** |
+| Wiki Articles | **254** |
+| How-To Guides | **255** |
+| Static Pages | **788** |
 
 **Cluster highlights:** scheme-generators (42) · advanced-accessibility (29) · color-databases (28) · color-analysis (18) · design-systems (18)
 
@@ -73,12 +73,12 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 | | Count |
 |---|------:|
-| Converters | **250** |
-| Wiki Articles | **263** |
-| How-To Guides | **255** |
-| Static Pages | **768** |
+| Converters | **255** |
+| Wiki Articles | **268** |
+| How-To Guides | **260** |
+| Static Pages | **783** |
 
-**Cluster highlights:** volume (35) · length (32) · digital (30) · weight (23) · time (21)
+**Cluster highlights:** volume (36) · length (32) · digital (30) · weight (23) · time (22)
 
 ---
 
@@ -90,10 +90,10 @@ Reference database for technical and structured codes with linked wiki articles 
 
 | | Count |
 |---|------:|
-| Codes | **692** |
-| Wiki Articles | **260** |
-| How-To Guides | **312** |
-| Static Pages | **1264** |
+| Codes | **697** |
+| Wiki Articles | **265** |
+| How-To Guides | **317** |
+| Static Pages | **1279** |
 
 **Cluster highlights:** country (197) · airport (81) · port (79) · http (60) · currency (60)
 
@@ -103,13 +103,13 @@ Reference database for technical and structured codes with linked wiki articles 
 
 > **Status:** ✅ Live
 
-File format reference and comparison database spanning 452 individual formats and 365 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
+File format reference and comparison database spanning 458 individual formats and 370 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
 | | Count |
 |---|------:|
-| Formats | **452** |
-| Comparisons | **365** |
-| Static Pages | **817** |
+| Formats | **458** |
+| Comparisons | **370** |
+| Static Pages | **828** |
 
 **Cluster highlights:** data (98) · image (42) · code (31) · document (31) · system (32)
 
@@ -119,22 +119,26 @@ File format reference and comparison database spanning 452 individual formats an
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 449 | 273 | 274 | 250 | 692 | 452 | **2 390** |
-| Wiki Articles | 308 | 250 | 249 | 263 | 260 | — | **1 330** |
-| How-To Guides | 407 | 250 | 250 | 255 | 312 | — | **1 474** |
-| Comparisons | — | — | — | — | — | 365 | **365** |
-| Static Pages | 1164 | 773 | 773 | 768 | 1264 | 817 | **5 559** |
-| Crosslinks (outbound) | 412 | 211 | 198 | 133 | 261 | 359 | **1 574** |
+| Primary items | 454 | 277 | 279 | 255 | 697 | 458 | **2 420** |
+| Wiki Articles | 313 | 255 | 254 | 268 | 265 | — | **1 355** |
+| How-To Guides | 412 | 254 | 255 | 260 | 317 | — | **1 498** |
+| Comparisons | — | — | — | — | — | 370 | **370** |
+| Static Pages | 1179 | 786 | 788 | 783 | 1279 | 828 | **5 643** |
+| Crosslinks (outbound) | 446 | 242 | 222 | 164 | 297 | 379 | **1 750** |
 
 ---
 
 ## 🗓️ Latest Update
 
+- **2026-06-20**
+  - **Content:** all six sites — **60620 wave** closed: **+5** primary / **+5** wiki / **+5** guides per site; formats **+5** formats / **+5** comparisons; **10** rewrites (5 BWT + 5 GSC) per site; Track **0R** (50 entity+sources · 50 title F2/F3) on each property.
+  - **Crosslinks:** outbound **+34** tools · **+31** calc · **+24** colors · **+31** units · **+36** codes · **+20** formats (Section C wired; **1 750** total outbound refs, audit clean).
+
+## Updates
+
 - **2026-06-10**
   - **Content:** all six sites — **+5** primary / **+5** wiki / **+5** guides; **10** priority rewrites on tools, calc, colors, units, and codes; formats **+5** formats / **+5** comparisons.
   - **Crosslinks:** outbound **+23** tools · **+37** calc · **+25** colors · **+8** units · **+31** codes · **+15** formats.
-
-## Updates
 
 - **2026-06-04**
   - **Content:** tools, calc, colors, units, and codes each **+5** primary / **+5** wiki / **+5** guides; formats **+5** formats / **+5** comparisons; **10** priority rewrites per site; category hub pages (audio, finance, water-quality, print-production, and related clusters).
