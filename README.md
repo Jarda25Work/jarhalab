@@ -22,12 +22,12 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 | | Count |
 |---|------:|
-| Tools | **474** |
-| Wiki Articles | **333** |
-| How-To Guides | **432** |
-| Static Pages | **1239** |
+| Tools | **479** |
+| Wiki Articles | **338** |
+| How-To Guides | **437** |
+| Static Pages | **1254** |
 
-**Cluster highlights:** code-tools (62) · dev-converters (44) · encoder-decoder (35) · formatter (27) · analyzer (25)
+**Cluster highlights:** code-tools (62) · dev-converters (46) · encoder-decoder (36) · formatter (27) · security-tools (25)
 
 ---
 
@@ -39,12 +39,12 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **297** |
-| Wiki Articles | **275** |
-| How-To Guides | **274** |
-| Static Pages | **846** |
+| Calculators | **302** |
+| Wiki Articles | **280** |
+| How-To Guides | **279** |
+| Static Pages | **895** |
 
-**Cluster highlights:** finance (156) · math (28) · health (28) · everyday (23) · education (13)
+**Cluster highlights:** finance (160) · health (29) · math (28) · everyday (23) · construction (13)
 
 ---
 
@@ -56,12 +56,12 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 | | Count |
 |---|------:|
-| Tools | **299** |
-| Wiki Articles | **274** |
-| How-To Guides | **275** |
-| Static Pages | **833** |
+| Tools | **304** |
+| Wiki Articles | **279** |
+| How-To Guides | **280** |
+| Static Pages | **908** |
 
-**Cluster highlights:** scheme-generators (44) · color-databases (34) · advanced-accessibility (31) · color-analysis (21) · contrast-checkers (20)
+**Cluster highlights:** scheme-generators (44) · color-databases (35) · advanced-accessibility (31) · color-analysis (22) · contrast-checkers (20)
 
 ---
 
@@ -73,12 +73,12 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 | | Count |
 |---|------:|
-| Converters | **275** |
-| Wiki Articles | **288** |
-| How-To Guides | **280** |
-| Static Pages | **828** |
+| Converters | **280** |
+| Wiki Articles | **293** |
+| How-To Guides | **285** |
+| Static Pages | **891** |
 
-**Cluster highlights:** volume (38) · digital (36) · length (34) · weight (26) · power (23)
+**Cluster highlights:** volume (40) · digital (39) · length (34) · weight (26) · power (23)
 
 ---
 
@@ -90,12 +90,12 @@ Reference database for technical and structured codes with linked wiki articles 
 
 | | Count |
 |---|------:|
-| Codes | **717** |
-| Wiki Articles | **285** |
-| How-To Guides | **337** |
-| Static Pages | **1339** |
+| Codes | **722** |
+| Wiki Articles | **290** |
+| How-To Guides | **342** |
+| Static Pages | **1354** |
 
-**Cluster highlights:** country (199) · airport (87) · port (79) · currency (75) · http (60)
+**Cluster highlights:** country (199) · airport (87) · currency (80) · port (79) · http (60)
 
 ---
 
@@ -103,15 +103,15 @@ Reference database for technical and structured codes with linked wiki articles 
 
 > **Status:** ✅ Live
 
-File format reference and comparison database spanning 471 individual formats and 389 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
+File format reference and comparison database spanning 476 individual formats and 394 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
 | | Count |
 |---|------:|
-| Formats | **471** |
-| Comparisons | **389** |
-| Static Pages | **860** |
+| Formats | **476** |
+| Comparisons | **394** |
+| Static Pages | **870** |
 
-**Cluster highlights:** data (107) · image (43) · system (41) · code (34) · document (32)
+**Cluster highlights:** data (109) · image (43) · system (41) · code (34) · document (33)
 
 ---
 
@@ -119,23 +119,28 @@ File format reference and comparison database spanning 471 individual formats an
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 474 | 297 | 299 | 275 | 717 | 471 | **2 533** |
-| Wiki Articles | 333 | 275 | 274 | 288 | 285 | — | **1 455** |
-| How-To Guides | 432 | 274 | 275 | 280 | 337 | — | **1 598** |
-| Comparisons | — | — | — | — | — | 389 | **389** |
-| Static Pages | 1239 | 846 | 833 | 828 | 1339 | 860 | **5 945** |
-| Crosslinks (outbound) | 651 | 396 | 331 | 250 | 418 | 439 | **2 485** |
+| Primary items | 479 | 302 | 304 | 280 | 722 | 476 | **2 563** |
+| Wiki Articles | 338 | 280 | 279 | 293 | 290 | — | **1 480** |
+| How-To Guides | 437 | 279 | 280 | 285 | 342 | — | **1 623** |
+| Comparisons | — | — | — | — | — | 394 | **394** |
+| Static Pages | 1254 | 895 | 908 | 891 | 1354 | 870 | **6 172** |
+| Crosslinks (outbound) | 711 | 416 | 347 | 267 | 457 | 466 | **2 664** |
 
 ---
 
 ## 🗓️ Latest Update
 
+- **2026-07-31**
+  - **Content:** all six sites — **60731 wave** closed: **+5** primary / **+5** wiki / **+5** guides per site; formats **+5** formats / **+5** comparisons; **10** impression-led rewrites + **5** zero-signal rewrites + Track **1E** AI citation rewrites + Track **0R** (entity+sources · title F2/F3 · troika) on each property. Cluster focus includes hex8↔RGBA/HSLA + NCS→CIELAB (colors), gallon/storage math (units), MAGI/IRA (calc), webhook HMAC (tools), Horn of Africa currencies (codes), WARC/HAR + Lance (formats).
+  - **Crosslinks:** Section C bidirectional pairs completed network-wide (**16/16** plan pairs, including deferred colors hex8↔HSA MAGI); **7** legacy dead keys remapped/removed in formats; outbound **2 664** refs (**audit 0 dead**).
+  - **Quality:** `verify:d0:changed` + control builds green per site; hub README synced to post-wave inventories (**2 563** primary · **6 172** static).
+
+## Updates
+
 - **2026-07-24**
   - **Content:** all six sites — **60724 wave** closed: **+5** primary / **+5** wiki / **+5** guides per site; formats **+5** formats / **+5** comparisons then cannibalization cleanup (**−7** duplicate format pages · **−1** duplicate comparison; 301 aliases to canonical slugs including MessagePack/`msgpack`, Zstd, NetCDF, RFC 5424 syslog, Office template twins); **10** impression-led rewrites + **5** zero-signal rewrites + Track **1E** AI citation rewrites + Track **0R** (entity+sources · title F2/F3 · troika) on each property.
   - **Crosslinks:** Section C bidirectional pairs completed network-wide (**18/18** plan pairs); outbound **2 485** refs (**audit 0 dead**); sister target regenerations after formats cleanup.
   - **Quality:** `verify:d0:changed` + control builds green per site; hub README synced to post-wave inventories (**2 533** primary · **5 945** static).
-
-## Updates
 
 - **2026-07-17**
   - **Content:** all six sites — **60717 wave** closed: **+5** primary / **+5** wiki / **+5** guides per site; formats **+5** formats / **+5** comparisons; **10** impression-led rewrites (position gate: avg pos ≤5 excluded) per site; **5** zero-signal rewrites; Track **1E** AI citation rewrites; Track **0R** (entity+sources · title F2/F3 · troika wiring) on each property.
