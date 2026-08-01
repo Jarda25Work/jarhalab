@@ -1,22 +1,28 @@
-# 🌐 JarhaLab — Free Online Tools, Calculators, Colors, Codes, Units, and Formats
+# JarhaLab – Free Online Tools, Calculators, Colors, Codes, Units, and Formats
 
 **JarhaLab** is a growing family of privacy-first web applications. Every project is JSON-driven, statically generated, and built so the actual tool logic runs entirely in the browser.
 
 ---
 
-## 🚀 Live Projects
+## Live Projects
 
-### 🏠 [jarhalab.com](https://jarhalab.com) — Homepage & Hub
+### [jarhalab.com](https://www.jarhalab.com) – Homepage & Hub
 
-> **Status:** ✅ Live
+> **Status:** Live
 
-Central homepage for the JarhaLab platform, connecting the full family of tools, calculators, references, and format guides.
+Central homepage for the JarhaLab platform: sister-site directory, platform notes, journal, and a growing library of full Ubuntu / web-stack ops playbooks.
+
+| | Count |
+|---|------:|
+| Ops guides | **30** |
+| Journal posts | **3** |
+| Platform / engineering pages | **7** |
 
 ---
 
-### 🛠️ [tools.jarhalab.com](https://tools.jarhalab.com) — Online Utility Tools
+### [tools.jarhalab.com](https://tools.jarhalab.com) – Online Utility Tools
 
-> **Status:** ✅ Live
+> **Status:** Live
 
 A broad browser-side utility suite for text processing, image workflows, encoding, hashing, developer debugging, SEO, and practical data workflows.
 
@@ -31,9 +37,9 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 ---
 
-### 🧮 [calc.jarhalab.com](https://calc.jarhalab.com) — Online Calculators
+### [calc.jarhalab.com](https://calc.jarhalab.com) – Online Calculators
 
-> **Status:** ✅ Live
+> **Status:** Live
 
 Free calculators with linked wiki articles and how-to guides across finance, math, health, construction, and everyday planning workflows.
 
@@ -48,9 +54,9 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 ---
 
-### 🎨 [colors.jarhalab.com](https://colors.jarhalab.com) — Color Tools
+### [colors.jarhalab.com](https://colors.jarhalab.com) – Color Tools
 
-> **Status:** ✅ Live
+> **Status:** Live
 
 Color tools and reference guides for palettes, accessibility, gamut checks, print workflows, gradients, and design-system color decisions.
 
@@ -65,9 +71,9 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 ---
 
-### 📐 [units.jarhalab.com](https://units.jarhalab.com) — Unit Converters
+### [units.jarhalab.com](https://units.jarhalab.com) – Unit Converters
 
-> **Status:** ✅ Live
+> **Status:** Live
 
 Unit converters with educational wiki and guide content for everyday, technical, and engineering measurement use cases.
 
@@ -82,9 +88,9 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 ---
 
-### 📋 [codes.jarhalab.com](https://codes.jarhalab.com) — Code Reference
+### [codes.jarhalab.com](https://codes.jarhalab.com) – Code Reference
 
-> **Status:** ✅ Live
+> **Status:** Live
 
 Reference database for technical and structured codes with linked wiki articles and guides across HTTP, ports, countries, currencies, MIME types, governance, and protocol lookups.
 
@@ -99,9 +105,9 @@ Reference database for technical and structured codes with linked wiki articles 
 
 ---
 
-### 📁 [formats.jarhalab.com](https://formats.jarhalab.com) — File Formats
+### [formats.jarhalab.com](https://formats.jarhalab.com) – File Formats
 
-> **Status:** ✅ Live
+> **Status:** Live
 
 File format reference and comparison database spanning 476 individual formats and 394 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
@@ -115,85 +121,92 @@ File format reference and comparison database spanning 476 individual formats an
 
 ---
 
-## 📊 Total Platform Stats
+## Total Platform Stats
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
 | Primary items | 479 | 302 | 304 | 280 | 722 | 476 | **2 563** |
-| Wiki Articles | 338 | 280 | 279 | 293 | 290 | — | **1 480** |
-| How-To Guides | 437 | 279 | 280 | 285 | 342 | — | **1 623** |
-| Comparisons | — | — | — | — | — | 394 | **394** |
+| Wiki Articles | 338 | 280 | 279 | 293 | 290 | – | **1 480** |
+| How-To Guides | 437 | 279 | 280 | 285 | 342 | – | **1 623** |
+| Comparisons | – | – | – | – | – | 394 | **394** |
 | Static Pages | 1254 | 895 | 908 | 891 | 1354 | 870 | **6 172** |
 | Crosslinks (outbound) | 711 | 416 | 347 | 267 | 457 | 466 | **2 664** |
 
+*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **30** ops guides and supporting journal / platform pages.*
+
 ---
 
-## 🗓️ Latest Update
+## Latest Update
 
-- **2026-07-31**
-  - **Content:** all six sites — **60731 wave** closed: **+5** primary / **+5** wiki / **+5** guides per site; formats **+5** formats / **+5** comparisons; **10** impression-led rewrites + **5** zero-signal rewrites + Track **1E** AI citation rewrites + Track **0R** (entity+sources · title F2/F3 · troika) on each property. Cluster focus includes hex8↔RGBA/HSLA + NCS→CIELAB (colors), gallon/storage math (units), MAGI/IRA (calc), webhook HMAC (tools), Horn of Africa currencies (codes), WARC/HAR + Lance (formats).
-  - **Crosslinks:** Section C bidirectional pairs completed network-wide (**16/16** plan pairs, including deferred colors hex8↔HSA MAGI); **7** legacy dead keys remapped/removed in formats; outbound **2 664** refs (**audit 0 dead**).
-  - **Quality:** `verify:d0:changed` + control builds green per site; hub README synced to post-wave inventories (**2 563** primary · **6 172** static).
+- **2026-08-01**
+  - **Hub:** published **30** full Ubuntu and web-stack ops playbooks on [www.jarhalab.com/guides](https://www.jarhalab.com/guides) (LEMP, TLS, Docker, SSH/UFW, Fail2ban, WireGuard, backups, and more), with copyable commands and links into the sister tools.
+  - **Hub UX:** guides CTA on the homepage, HTML sitemap listing guides and journal, navigation focused on Guides / Platform / Journal (GitHub kept on Contact / About / article bylines).
+  - **Indexing:** IndexNow ping for **42** new/updated hub URLs on `www.jarhalab.com` only.
 
 ## Updates
 
+- **2026-07-31**
+  - **Content:** weekly release across all six sites – five new primaries, five wiki articles, and five how-tos per property (formats: five formats + five comparisons). Impression-led and quiet-page refreshes, citation/source cleanup, and entity/title hygiene on each site. Themes included color conversion helpers, storage/gallon math, MAGI/IRA calculators, webhook HMAC tools, Horn of Africa currencies, and WARC/HAR/Lance formats.
+  - **Crosslinks:** finished the planned bidirectional pairs network-wide; cleaned a handful of legacy dead keys on formats; **2 664** outbound crosslinks (**0** dead in audit).
+  - **Quality:** per-site checks and builds green; hub README counts refreshed (**2 563** primary · **6 172** static).
+
 - **2026-07-24**
-  - **Content:** all six sites — **60724 wave** closed: **+5** primary / **+5** wiki / **+5** guides per site; formats **+5** formats / **+5** comparisons then cannibalization cleanup (**−7** duplicate format pages · **−1** duplicate comparison; 301 aliases to canonical slugs including MessagePack/`msgpack`, Zstd, NetCDF, RFC 5424 syslog, Office template twins); **10** impression-led rewrites + **5** zero-signal rewrites + Track **1E** AI citation rewrites + Track **0R** (entity+sources · title F2/F3 · troika) on each property.
-  - **Crosslinks:** Section C bidirectional pairs completed network-wide (**18/18** plan pairs); outbound **2 485** refs (**audit 0 dead**); sister target regenerations after formats cleanup.
-  - **Quality:** `verify:d0:changed` + control builds green per site; hub README synced to post-wave inventories (**2 533** primary · **5 945** static).
+  - **Content:** weekly release across all six sites – five primaries / five wiki / five guides each (formats: five + five), then formats cannibalization cleanup (duplicate format/comparison pages removed with 301 aliases to canonicals such as MessagePack, Zstd, NetCDF, syslog, and Office template twins). Impression-led and quiet-page refreshes plus source and title hygiene on each property.
+  - **Crosslinks:** planned bidirectional pairs completed; **2 485** outbound refs (**0** dead); sister targets regenerated after formats cleanup.
+  - **Quality:** per-site checks and builds green; inventories synced (**2 533** primary · **5 945** static).
 
 - **2026-07-17**
-  - **Content:** all six sites — **60717 wave** closed: **+5** primary / **+5** wiki / **+5** guides per site; formats **+5** formats / **+5** comparisons; **10** impression-led rewrites (position gate: avg pos ≤5 excluded) per site; **5** zero-signal rewrites; Track **1E** AI citation rewrites; Track **0R** (entity+sources · title F2/F3 · troika wiring) on each property.
-  - **Crosslinks:** Section C bidirectional wiring completed (**36/36**); dead troika/WCAG keys remediated (**2 305/2 305** resolved); outbound **+47** tools · **+41** calc · **+20** colors · **+8** units · **+31** codes · **+4** formats (**2 305** total outbound refs).
-  - **Quality:** IndexNow incremental submit (**297** URLs, 6 hosts, all accepted); crosslink-only wire scripts do not bump `updatedAt`.
+  - **Content:** weekly release – five primaries / five wiki / five guides per site (formats: five + five); impression-led rewrites (top-ranked URLs left alone), quiet-page refreshes, citation cleanup, and entity/title hygiene.
+  - **Crosslinks:** bidirectional wiring completed; dead troika/WCAG keys remediated; outbound totals **2 305**.
+  - **Quality:** IndexNow incremental submit (**297** URLs, six hosts, all accepted); crosslink-only edits do not bump publish dates.
 
 - **2026-07-10**
-  - **Content:** all six sites — **60710 wave** closed: **+5** primary / **+5** wiki / **+5** guides per site; formats **+5** formats / **+5** comparisons; **10** rewrites (5 BWT + 5 GSC) per site; **5** zero-signal rewrites; Track **1E** AI citation rewrites; Track **0R** (entity+sources · title F2/F3 · troika wiring) on each property.
-  - **Crosslinks:** Section C bidirectional wiring completed; blind crosslink keys fixed; outbound **+36** tools · **+37** calc · **+21** colors · **+18** units · **+19** codes · **+27** formats (**2 154** total outbound refs).
-  - **Quality:** 20 net-new interactive pages smoke-tested (`verify-60710-functions`); crosslink-only edits no longer bump `updatedAt`.
+  - **Content:** weekly release – five primaries / five wiki / five guides per site (formats: five + five); Bing- and Google-led refreshes, quiet-page rewrites, citation cleanup, and entity/title hygiene.
+  - **Crosslinks:** bidirectional wiring completed; outbound **2 154**.
+  - **Quality:** twenty net-new interactive pages smoke-tested; crosslink-only edits no longer bump publish dates.
 
 - **2026-07-03**
-  - **Content:** all six sites — **60703 wave** closed: **+5** primary / **+5** wiki / **+5** guides per site; formats **+5** formats / **+5** comparisons; **10** rewrites (5 BWT + 5 GSC) per site; Track **0R** (entity+sources · title F2/F3 · troika wiring) on each property.
-  - **Crosslinks:** outbound **+40** tools · **+42** calc · **+59** colors · **+50** units · **+35** codes · **+20** formats (Section C wired; **1 996** total outbound refs, audit clean).
+  - **Content:** weekly release – five primaries / five wiki / five guides per site (formats: five + five); ten rewrites per site; entity/source and title hygiene.
+  - **Crosslinks:** Section C wired; **1 996** outbound refs (audit clean).
 
 - **2026-06-20**
-  - **Content:** all six sites — **60620 wave** closed: **+5** primary / **+5** wiki / **+5** guides per site; formats **+5** formats / **+5** comparisons; **10** rewrites (5 BWT + 5 GSC) per site; Track **0R** (50 entity+sources · 50 title F2/F3) on each property.
-  - **Crosslinks:** outbound **+34** tools · **+31** calc · **+24** colors · **+31** units · **+36** codes · **+20** formats (Section C wired; **1 750** total outbound refs, audit clean).
+  - **Content:** weekly release – five primaries / five wiki / five guides per site (formats: five + five); ten rewrites per site; entity/source and title batches.
+  - **Crosslinks:** Section C wired; **1 750** outbound refs (audit clean).
 
 - **2026-06-10**
-  - **Content:** all six sites — **+5** primary / **+5** wiki / **+5** guides; **10** priority rewrites on tools, calc, colors, units, and codes; formats **+5** formats / **+5** comparisons.
-  - **Crosslinks:** outbound **+23** tools · **+37** calc · **+25** colors · **+8** units · **+31** codes · **+15** formats.
+  - **Content:** all six sites – five primaries / five wiki / five guides; ten priority rewrites on tools, calc, colors, units, and codes; formats five + five.
+  - **Crosslinks:** outbound growth across the network.
 
 - **2026-06-04**
-  - **Content:** tools, calc, colors, units, and codes each **+5** primary / **+5** wiki / **+5** guides; formats **+5** formats / **+5** comparisons; **10** priority rewrites per site; category hub pages (audio, finance, water-quality, print-production, and related clusters).
-  - **Crosslinks:** outbound **+30** tools · **+34** calc · **+31** colors · **+22** units · **+18** codes · **+28** formats.
+  - **Content:** tools, calc, colors, units, and codes each five primaries / five wiki / five guides; formats five + five; ten priority rewrites per site; category hub pages for audio, finance, water-quality, print-production, and related clusters.
+  - **Crosslinks:** outbound growth across the network.
 
 - **2026-06-03**
-  - **Content:** tools, calc, colors, units, and codes each **+5** primary / **+5** wiki / **+5** guides; formats **+5** formats / **+5** comparisons; **10** priority rewrites per site.
+  - **Content:** tools, calc, colors, units, and codes each five primaries / five wiki / five guides; formats five + five; ten priority rewrites per site.
   - **Crosslinks:** Section C cross-web links (MKV/Matroska MIME cluster).
 
 - **2026-05-30**
-  - **Content:** tools, calc, colors, units, and codes each **+5** primary / **+5** wiki / **+5** guides; formats **+10** formats / **+5** comparisons.
-  - **Crosslinks:** outbound **+25** tools · **+9** calc · **+9** colors · **+9** units · **+18** codes · **+38** formats.
+  - **Content:** tools, calc, colors, units, and codes each five primaries / five wiki / five guides; formats ten formats / five comparisons.
+  - **Crosslinks:** outbound growth across the network.
 
 - **2026-05-23**
-  - **Content:** tools, calc, colors, and codes each **+5** primary / **+5** wiki / **+5** guides; units **+3** converters / **+4** wiki / **+5** guides; formats **+10** formats / **+10** comparisons.
-  - **Crosslinks:** outbound **+21** tools · **+9** calc · **+19** colors · **+12** units · **+21** codes · **+36** formats.
+  - **Content:** tools, calc, colors, and codes each five primaries / five wiki / five guides; units three converters / four wiki / five guides; formats ten + ten.
+  - **Crosslinks:** outbound growth across the network.
 
 - **2026-05-16**
-  - **Content:** tools, calc, colors, units, and codes each **+5** primary / **+5** wiki / **+5** guides; formats **+10** formats / **+10** comparisons.
-  - **Crosslinks:** outbound **+41** tools · **+9** calc · **+6** colors · **+3** units · **+12** codes · **+15** formats.
+  - **Content:** tools, calc, colors, units, and codes each five primaries / five wiki / five guides; formats ten + ten.
+  - **Crosslinks:** outbound growth across the network.
 
 - **2026-05-09**
-  - **Content:** tools, calc, colors, units, and codes each **+2** primary / **+2** wiki / **+2** guides; formats **+3** formats / **+3** comparisons.
-  - **Crosslinks:** outbound **+47** tools · **+12** calc · **+12** colors · **+14** units · **+20** codes · **+42** formats.
+  - **Content:** tools, calc, colors, units, and codes each two primaries / two wiki / two guides; formats three + three.
+  - **Crosslinks:** outbound growth across the network.
 
 - **2026-05-02**
-  - **Content:** tools, calc, colors, units, and codes each **+10** primary / **+10** wiki / **+10** guides; formats **+21** formats / **+20** comparisons.
+  - **Content:** tools, calc, colors, units, and codes each ten primaries / ten wiki / ten guides; formats twenty-one formats / twenty comparisons.
   - **Crosslinks:** outbound expansion across all six sites.
 
 - **2026-04-25**
-  - **Content:** tools, calc, colors, units, and codes each **+10** primary / **+10** wiki / **+10** guides; formats **+20** formats / **+20** comparisons.
+  - **Content:** tools, calc, colors, units, and codes each ten primaries / ten wiki / ten guides; formats twenty + twenty.
   - **Crosslinks:** outbound expansion across all six sites.
 
 - **2026-04-18**
@@ -214,40 +227,40 @@ File format reference and comparison database spanning 476 individual formats an
 - **2026-03-15**
   - **Content:** tools **+102** · calc **+90** · colors **+120** · units **+30** · codes **+30** · formats **+30** pages.
 
-## 🛡️ Privacy First
+## Privacy First
 
 All JarhaLab applications process data **entirely in the browser**. No server-side processing, no tracking, no cookies, no sign-up required. Your data never leaves your device.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 All projects share the same modern stack:
 
-- **[Next.js 16](https://nextjs.org/)** — App Router, Turbopack, Static Site Generation
-- **[TypeScript](https://www.typescriptlang.org/)** — End-to-end type safety
-- **[Tailwind CSS v4](https://tailwindcss.com/)** — Utility-first styling, dark UI
-- **JSON-driven content** — Tools, wiki, and guides defined as JSON, pages auto-generated
-- **SEO optimized** — JSON-LD structured data, OpenGraph tags, sitemaps, canonical URLs
+- **[Next.js 16](https://nextjs.org/)** – App Router, Turbopack, Static Site Generation
+- **[TypeScript](https://www.typescriptlang.org/)** – End-to-end type safety
+- **[Tailwind CSS v4](https://tailwindcss.com/)** – Utility-first styling, dark UI
+- **JSON-driven content** – Tools, wiki, and guides defined as JSON; pages built as static routes
+- **SEO optimized** – JSON-LD structured data, OpenGraph tags, sitemaps, canonical URLs
 
 ---
 
-## 📬 Links
+## Links
 
 | | URL |
 |---|-----|
-| 🏠 Homepage | [jarhalab.com](https://jarhalab.com) |
-| 🛠️ Tools | [tools.jarhalab.com](https://tools.jarhalab.com) |
-| 🧮 Calculators | [calc.jarhalab.com](https://calc.jarhalab.com) |
-| 🎨 Colors | [colors.jarhalab.com](https://colors.jarhalab.com) |
-| 📐 Units | [units.jarhalab.com](https://units.jarhalab.com) |
-| 📋 Codes | [codes.jarhalab.com](https://codes.jarhalab.com) |
-| 📁 Formats | [formats.jarhalab.com](https://formats.jarhalab.com) |
+| Homepage | [www.jarhalab.com](https://www.jarhalab.com) |
+| Tools | [tools.jarhalab.com](https://tools.jarhalab.com) |
+| Calculators | [calc.jarhalab.com](https://calc.jarhalab.com) |
+| Colors | [colors.jarhalab.com](https://colors.jarhalab.com) |
+| Units | [units.jarhalab.com](https://units.jarhalab.com) |
+| Codes | [codes.jarhalab.com](https://codes.jarhalab.com) |
+| Formats | [formats.jarhalab.com](https://formats.jarhalab.com) |
 
 ---
 
-More free web apps are coming — stay tuned at [jarhalab.com](https://jarhalab.com) for new projects and updates. 🚀
+More free web apps are coming – stay tuned at [www.jarhalab.com](https://www.jarhalab.com) for new projects and updates.
 
 ---
 
-*Built with ❤️ by JarhaLab*
+*Built with care by JarhaLab*
