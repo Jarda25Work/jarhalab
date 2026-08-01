@@ -157,7 +157,7 @@ File format reference and comparison database spanning 476 individual formats an
 
 - **2026-07-17**
   - **Content:** weekly release – five primaries / five wiki / five guides per site (formats: five + five); impression-led rewrites (top-ranked URLs left alone), quiet-page refreshes, citation cleanup, and entity/title hygiene.
-  - **Crosslinks:** bidirectional wiring completed; dead troika/WCAG keys remediated; outbound totals **2 305**.
+  - **Crosslinks:** bidirectional wiring completed; broken related-page keys cleaned up; outbound totals **2 305**.
   - **Quality:** IndexNow incremental submit (**297** URLs, six hosts, all accepted); crosslink-only edits do not bump publish dates.
 
 - **2026-07-10**
