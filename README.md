@@ -14,8 +14,8 @@ Central homepage for the JarhaLab platform: sister-site directory, platform note
 
 | | Count |
 |---|------:|
-| Ops guides | **30** |
-| Journal posts | **3** |
+| Ops guides | **35** |
+| Journal posts | **4** |
 | Platform / engineering pages | **7** |
 
 ---
@@ -28,10 +28,10 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 | | Count |
 |---|------:|
-| Tools | **479** |
-| Wiki Articles | **338** |
-| How-To Guides | **437** |
-| Static Pages | **1254** |
+| Tools | **484** |
+| Wiki Articles | **343** |
+| How-To Guides | **442** |
+| Static Pages | **1269** |
 
 **Cluster highlights:** code-tools (62) · dev-converters (46) · encoder-decoder (36) · formatter (27) · security-tools (25)
 
@@ -45,10 +45,10 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **302** |
-| Wiki Articles | **280** |
-| How-To Guides | **279** |
-| Static Pages | **895** |
+| Calculators | **307** |
+| Wiki Articles | **285** |
+| How-To Guides | **284** |
+| Static Pages | **910** |
 
 **Cluster highlights:** finance (160) · health (29) · math (28) · everyday (23) · construction (13)
 
@@ -62,10 +62,10 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 | | Count |
 |---|------:|
-| Tools | **304** |
-| Wiki Articles | **279** |
-| How-To Guides | **280** |
-| Static Pages | **908** |
+| Tools | **309** |
+| Wiki Articles | **284** |
+| How-To Guides | **285** |
+| Static Pages | **923** |
 
 **Cluster highlights:** scheme-generators (44) · color-databases (35) · advanced-accessibility (31) · color-analysis (22) · contrast-checkers (20)
 
@@ -79,10 +79,10 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 | | Count |
 |---|------:|
-| Converters | **280** |
-| Wiki Articles | **293** |
-| How-To Guides | **285** |
-| Static Pages | **891** |
+| Converters | **285** |
+| Wiki Articles | **298** |
+| How-To Guides | **290** |
+| Static Pages | **873** |
 
 **Cluster highlights:** volume (40) · digital (39) · length (34) · weight (26) · power (23)
 
@@ -96,10 +96,10 @@ Reference database for technical and structured codes with linked wiki articles 
 
 | | Count |
 |---|------:|
-| Codes | **722** |
-| Wiki Articles | **290** |
-| How-To Guides | **342** |
-| Static Pages | **1354** |
+| Codes | **727** |
+| Wiki Articles | **295** |
+| How-To Guides | **347** |
+| Static Pages | **1407** |
 
 **Cluster highlights:** country (199) · airport (87) · currency (80) · port (79) · http (60)
 
@@ -109,13 +109,13 @@ Reference database for technical and structured codes with linked wiki articles 
 
 > **Status:** Live
 
-File format reference and comparison database spanning 476 individual formats and 394 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
+File format reference and comparison database spanning 481 individual formats and 399 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
 | | Count |
 |---|------:|
-| Formats | **476** |
-| Comparisons | **394** |
-| Static Pages | **870** |
+| Formats | **481** |
+| Comparisons | **399** |
+| Static Pages | **880** |
 
 **Cluster highlights:** data (109) · image (43) · system (41) · code (34) · document (33)
 
@@ -125,25 +125,30 @@ File format reference and comparison database spanning 476 individual formats an
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 479 | 302 | 304 | 280 | 722 | 476 | **2 563** |
-| Wiki Articles | 338 | 280 | 279 | 293 | 290 | – | **1 480** |
-| How-To Guides | 437 | 279 | 280 | 285 | 342 | – | **1 623** |
-| Comparisons | – | – | – | – | – | 394 | **394** |
-| Static Pages | 1254 | 895 | 908 | 891 | 1354 | 870 | **6 172** |
-| Crosslinks (outbound) | 711 | 416 | 347 | 267 | 457 | 466 | **2 664** |
+| Primary items | 484 | 307 | 309 | 285 | 727 | 481 | **2 593** |
+| Wiki Articles | 343 | 285 | 284 | 298 | 295 | – | **1 505** |
+| How-To Guides | 442 | 284 | 285 | 290 | 347 | – | **1 648** |
+| Comparisons | – | – | – | – | – | 399 | **399** |
+| Static Pages | 1269 | 910 | 923 | 873 | 1407 | 880 | **6 262** |
+| Crosslinks (outbound) | – | – | – | – | – | – | **2 832** |
 
-*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **30** ops guides and supporting journal / platform pages.*
+*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **35** ops guides and supporting journal / platform pages.*
 
 ---
 
 ## Latest Update
 
+- **2026-08-07**
+  - **Content:** weekly release across all six sites – five primaries / five wiki / five guides each (formats: five + five); impression-led and quiet-page refreshes; citation and title hygiene. Hub: five more Ubuntu ops playbooks (**35** guides) plus a short journal note.
+  - **Crosslinks:** planned pairs completed; outbound **2 832**.
+  - **Quality:** per-site checks and builds green; hub README counts refreshed (**2 593** primary · **6 262** static).
+
+## Updates
+
 - **2026-08-01**
   - **Hub:** published **30** full Ubuntu and web-stack ops playbooks on [www.jarhalab.com/guides](https://www.jarhalab.com/guides) (LEMP, TLS, Docker, SSH/UFW, Fail2ban, WireGuard, backups, and more), with copyable commands and links into the sister tools.
   - **Hub UX:** guides CTA on the homepage, HTML sitemap listing guides and journal, navigation focused on Guides / Platform / Journal (GitHub kept on Contact / About / article bylines).
   - **Indexing:** IndexNow ping for **42** new/updated hub URLs on `www.jarhalab.com` only.
-
-## Updates
 
 - **2026-07-31**
   - **Content:** weekly release across all six sites – five new primaries, five wiki articles, and five how-tos per property (formats: five formats + five comparisons). Impression-led and quiet-page refreshes, citation/source cleanup, and entity/title hygiene on each site. Themes included color conversion helpers, storage/gallon math, MAGI/IRA calculators, webhook HMAC tools, Horn of Africa currencies, and WARC/HAR/Lance formats.
