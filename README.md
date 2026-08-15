@@ -14,7 +14,7 @@ Central homepage for the JarhaLab platform: sister-site directory, platform note
 
 | | Count |
 |---|------:|
-| Ops guides | **35** |
+| Ops guides | **40** |
 | Journal posts | **4** |
 | Platform / engineering pages | **7** |
 
@@ -109,13 +109,13 @@ Reference database for technical and structured codes with linked wiki articles 
 
 > **Status:** Live
 
-File format reference and comparison database spanning 481 individual formats and 399 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
+File format reference and comparison database spanning 486 individual formats and 404 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
 | | Count |
 |---|------:|
-| Formats | **481** |
-| Comparisons | **399** |
-| Static Pages | **880** |
+| Formats | **486** |
+| Comparisons | **404** |
+| Static Pages | **890** |
 
 **Cluster highlights:** data (109) · image (43) · system (41) · code (34) · document (33)
 
@@ -125,25 +125,30 @@ File format reference and comparison database spanning 481 individual formats an
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 484 | 307 | 309 | 285 | 727 | 481 | **2 593** |
-| Wiki Articles | 343 | 285 | 284 | 298 | 295 | – | **1 505** |
-| How-To Guides | 442 | 284 | 285 | 290 | 347 | – | **1 648** |
-| Comparisons | – | – | – | – | – | 399 | **399** |
-| Static Pages | 1269 | 910 | 923 | 873 | 1407 | 880 | **6 262** |
-| Crosslinks (outbound) | – | – | – | – | – | – | **2 832** |
+| Primary items | 489 | 312 | 314 | 290 | 732 | 486 | **2 623** |
+| Wiki Articles | 348 | 290 | 289 | 303 | 300 | – | **1 530** |
+| How-To Guides | 447 | 289 | 290 | 295 | 352 | – | **1 673** |
+| Comparisons | – | – | – | – | – | 404 | **404** |
+| Static Pages | 1284 | 891 | 893 | 888 | 1384 | 890 | **6 230** |
+| Crosslinks (outbound) | – | – | – | – | – | – | **2 832+** |
 
-*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **35** ops guides and supporting journal / platform pages.*
+*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **40** ops guides and supporting journal / platform pages.*
 
 ---
 
 ## Latest Update
 
+- **2026-08-16**
+  - **Content:** weekly release across all six sites – five primaries / five wiki / five guides each (formats: five + five); impression-led, sources-gap, zero-signal, and AI citation refreshes; entity/title hygiene. Themes: Jupyter/Quarto notebooks + Thrift/WebArchive; Southern Africa/Comoros currencies; INI/properties/ETag/HSTS/SRT–VTT tools; DSCR/SaaS finance calcs; mmHg vacuum units; wavelength/Munsell/Rec.2020 color tools. Hub: five more Ubuntu ops playbooks (**40** guides) plus journal note on the network wave.
+  - **Crosslinks:** planned Section C pairs wired as sister sites shipped (incl. mmHg converters).
+  - **Quality:** per-site checks and builds green; hub README counts refreshed (**2 623** primary · **6 230** content JSON pages).
+
+## Updates
+
 - **2026-08-07**
   - **Content:** weekly release across all six sites – five primaries / five wiki / five guides each (formats: five + five); impression-led and quiet-page refreshes; citation and title hygiene. Hub: five more Ubuntu ops playbooks (**35** guides) plus a short journal note.
   - **Crosslinks:** planned pairs completed; outbound **2 832**.
   - **Quality:** per-site checks and builds green; hub README counts refreshed (**2 593** primary · **6 262** static).
-
-## Updates
 
 - **2026-08-01**
   - **Hub:** published **30** full Ubuntu and web-stack ops playbooks on [www.jarhalab.com/guides](https://www.jarhalab.com/guides) (LEMP, TLS, Docker, SSH/UFW, Fail2ban, WireGuard, backups, and more), with copyable commands and links into the sister tools.
