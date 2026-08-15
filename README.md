@@ -15,7 +15,7 @@ Central homepage for the JarhaLab platform: sister-site directory, platform note
 | | Count |
 |---|------:|
 | Ops guides | **40** |
-| Journal posts | **4** |
+| Journal posts | **5** |
 | Platform / engineering pages | **7** |
 
 ---
@@ -28,10 +28,10 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 | | Count |
 |---|------:|
-| Tools | **484** |
-| Wiki Articles | **343** |
-| How-To Guides | **442** |
-| Static Pages | **1269** |
+| Tools | **489** |
+| Wiki Articles | **348** |
+| How-To Guides | **447** |
+| Static Pages | **1284** |
 
 **Cluster highlights:** code-tools (62) · dev-converters (46) · encoder-decoder (36) · formatter (27) · security-tools (25)
 
@@ -45,10 +45,10 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **307** |
-| Wiki Articles | **285** |
-| How-To Guides | **284** |
-| Static Pages | **910** |
+| Calculators | **312** |
+| Wiki Articles | **290** |
+| How-To Guides | **289** |
+| Static Pages | **891** |
 
 **Cluster highlights:** finance (160) · health (29) · math (28) · everyday (23) · construction (13)
 
@@ -62,10 +62,10 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 | | Count |
 |---|------:|
-| Tools | **309** |
-| Wiki Articles | **284** |
-| How-To Guides | **285** |
-| Static Pages | **923** |
+| Tools | **314** |
+| Wiki Articles | **289** |
+| How-To Guides | **290** |
+| Static Pages | **893** |
 
 **Cluster highlights:** scheme-generators (44) · color-databases (35) · advanced-accessibility (31) · color-analysis (22) · contrast-checkers (20)
 
@@ -79,10 +79,10 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 | | Count |
 |---|------:|
-| Converters | **285** |
-| Wiki Articles | **298** |
-| How-To Guides | **290** |
-| Static Pages | **873** |
+| Converters | **290** |
+| Wiki Articles | **303** |
+| How-To Guides | **295** |
+| Static Pages | **888** |
 
 **Cluster highlights:** volume (40) · digital (39) · length (34) · weight (26) · power (23)
 
@@ -96,10 +96,10 @@ Reference database for technical and structured codes with linked wiki articles 
 
 | | Count |
 |---|------:|
-| Codes | **727** |
-| Wiki Articles | **295** |
-| How-To Guides | **347** |
-| Static Pages | **1407** |
+| Codes | **732** |
+| Wiki Articles | **300** |
+| How-To Guides | **352** |
+| Static Pages | **1384** |
 
 **Cluster highlights:** country (199) · airport (87) · currency (80) · port (79) · http (60)
 
@@ -130,20 +130,25 @@ File format reference and comparison database spanning 486 individual formats an
 | How-To Guides | 447 | 289 | 290 | 295 | 352 | – | **1 673** |
 | Comparisons | – | – | – | – | – | 404 | **404** |
 | Static Pages | 1284 | 891 | 893 | 888 | 1384 | 890 | **6 230** |
-| Crosslinks (outbound) | – | – | – | – | – | – | **2 832+** |
+| Crosslinks (outbound) | – | – | – | – | – | – | **2 993** |
 
-*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **40** ops guides and supporting journal / platform pages.*
+*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **40** ops guides, **5** journal posts, and supporting platform pages.*
 
 ---
 
 ## Latest Update
 
-- **2026-08-16**
-  - **Content:** weekly release across all six sites – five primaries / five wiki / five guides each (formats: five + five); impression-led, sources-gap, zero-signal, and AI citation refreshes; entity/title hygiene. Themes: Jupyter/Quarto notebooks + Thrift/WebArchive; Southern Africa/Comoros currencies; INI/properties/ETag/HSTS/SRT–VTT tools; DSCR/SaaS finance calcs; mmHg vacuum units; wavelength/Munsell/Rec.2020 color tools. Hub: five more Ubuntu ops playbooks (**40** guides) plus journal note on the network wave.
-  - **Crosslinks:** planned Section C pairs wired as sister sites shipped (incl. mmHg converters).
-  - **Quality:** per-site checks and builds green; hub README counts refreshed (**2 623** primary · **6 230** content JSON pages).
+- **2026-08-15** (hub / QA close)
+  - **Hub:** architecture diagrams on ops guides where a multi-hop flow helps (**27 / 40** guides with `GuideDiagram`); diagram rule tightened for future H1 ships.
+  - **Crosslinks:** network audit clean – **2 993** outbound JSON refs, **0** dead (fixed htaccess / clock-skew / SZL / home SMTP+git targets).
+  - **Quality:** smoke-tested wave interactive pages (tools / calc / units / colors) plus new hub guides; publish stamps aligned to **2026-08-15**; hub README inventories synced (**2 623** primary · **6 230** static · journal **5**).
 
 ## Updates
+
+- **2026-08-15**
+  - **Content:** weekly release across all six sites – five primaries / five wiki / five guides each (formats: five + five); impression-led, sources-gap, zero-signal, and AI citation refreshes; entity/title hygiene. Themes: Jupyter/Quarto notebooks + Thrift/WebArchive; Southern Africa/Comoros currencies; INI/properties/ETag/HSTS/SRT–VTT tools; DSCR/SaaS finance calcs; mmHg vacuum units; wavelength/Munsell/Rec.2020 color tools. Hub: five more Ubuntu ops playbooks (**40** guides) plus journal note on the network wave.
+  - **Crosslinks:** planned Section C pairs wired as sister sites shipped (incl. mmHg converters).
+  - **Quality:** per-site checks and builds green (**2 623** primary · **6 230** content JSON pages).
 
 - **2026-08-07**
   - **Content:** weekly release across all six sites – five primaries / five wiki / five guides each (formats: five + five); impression-led and quiet-page refreshes; citation and title hygiene. Hub: five more Ubuntu ops playbooks (**35** guides) plus a short journal note.
