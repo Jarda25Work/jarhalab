@@ -1,6 +1,6 @@
-# JarhaLab – Free Online Tools, Calculators, Colors, Codes, Units, and Formats
+# JarhaLab – Free Online Tools, Calculators, Colors, Codes, Units, Formats — and Palog
 
-**JarhaLab** is a growing family of privacy-first web applications. Every project is JSON-driven, statically generated, and built so the actual tool logic runs entirely in the browser.
+**JarhaLab** is a growing family of privacy-first web applications. The six browser-side sites are JSON-driven, statically generated, and built so the actual tool logic runs entirely in the browser. **Palog** is the SaaS sibling in preparation for Palo Alto Networks firewall logs.
 
 ---
 
@@ -14,8 +14,8 @@ Central homepage for the JarhaLab platform: sister-site directory, platform note
 
 | | Count |
 |---|------:|
-| Ops guides | **40** |
-| Journal posts | **5** |
+| Ops guides | **45** |
+| Journal posts | **7** |
 | Platform / engineering pages | **7** |
 
 ---
@@ -28,12 +28,12 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 | | Count |
 |---|------:|
-| Tools | **489** |
-| Wiki Articles | **348** |
-| How-To Guides | **447** |
-| Static Pages | **1284** |
+| Tools | **494** |
+| Wiki Articles | **353** |
+| How-To Guides | **452** |
+| Static Pages | **1299** |
 
-**Cluster highlights:** code-tools (62) · dev-converters (46) · encoder-decoder (36) · formatter (27) · security-tools (25)
+**Cluster highlights:** code-tools (62) · dev-converters (44) · encoder-decoder (35) · formatter (27) · analyzer (25)
 
 ---
 
@@ -45,12 +45,12 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **312** |
-| Wiki Articles | **290** |
-| How-To Guides | **289** |
-| Static Pages | **891** |
+| Calculators | **317** |
+| Wiki Articles | **295** |
+| How-To Guides | **294** |
+| Static Pages | **906** |
 
-**Cluster highlights:** finance (160) · health (29) · math (28) · everyday (23) · construction (13)
+**Cluster highlights:** finance (175) · health (29) · math (28) · everyday (23) · construction (13)
 
 ---
 
@@ -62,12 +62,12 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 | | Count |
 |---|------:|
-| Tools | **314** |
-| Wiki Articles | **289** |
-| How-To Guides | **290** |
-| Static Pages | **893** |
+| Tools | **319** |
+| Wiki Articles | **294** |
+| How-To Guides | **295** |
+| Static Pages | **908** |
 
-**Cluster highlights:** scheme-generators (44) · color-databases (35) · advanced-accessibility (31) · color-analysis (22) · contrast-checkers (20)
+**Cluster highlights:** scheme-generators (44) · color-databases (34) · advanced-accessibility (31) · color-analysis (21) · contrast-checkers (20)
 
 ---
 
@@ -79,10 +79,10 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 | | Count |
 |---|------:|
-| Converters | **290** |
-| Wiki Articles | **303** |
-| How-To Guides | **295** |
-| Static Pages | **888** |
+| Converters | **295** |
+| Wiki Articles | **308** |
+| How-To Guides | **300** |
+| Static Pages | **903** |
 
 **Cluster highlights:** volume (40) · digital (39) · length (34) · weight (26) · power (23)
 
@@ -96,12 +96,12 @@ Reference database for technical and structured codes with linked wiki articles 
 
 | | Count |
 |---|------:|
-| Codes | **732** |
-| Wiki Articles | **300** |
-| How-To Guides | **352** |
-| Static Pages | **1384** |
+| Codes | **737** |
+| Wiki Articles | **305** |
+| How-To Guides | **357** |
+| Static Pages | **1399** |
 
-**Cluster highlights:** country (199) · airport (87) · currency (80) · port (79) · http (60)
+**Cluster highlights:** country (199) · airport (87) · currency (95) · port (79) · http (60)
 
 ---
 
@@ -109,15 +109,28 @@ Reference database for technical and structured codes with linked wiki articles 
 
 > **Status:** Live
 
-File format reference and comparison database spanning 486 individual formats and 404 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
+File format reference and comparison database spanning 491 individual formats and 409 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
 | | Count |
 |---|------:|
-| Formats | **486** |
-| Comparisons | **404** |
-| Static Pages | **890** |
+| Formats | **491** |
+| Comparisons | **409** |
+| Static Pages | **900** |
 
 **Cluster highlights:** data (109) · image (43) · system (41) · code (34) · document (33)
+
+---
+
+### [palog.jarhalab.com](https://palog.jarhalab.com) – Palog (Palo Alto Networks logs)
+
+> **Status:** In preparation
+
+Focused SaaS for Palo Alto Networks firewall logs: TLS syslog ingest, tenant-scoped dashboards, subtype-aware search, alert rules, and daily digests – without standing up a full SIEM project. Product overview is live while ingest, tenancy, and operator workflows are hardened. **Subscription pricing is not published yet.**
+
+| | |
+|---|---|
+| Product page | [palog.jarhalab.com/en/product](https://palog.jarhalab.com/en/product) |
+| Hub journal | [Preparing Palog](https://www.jarhalab.com/journal/preparing-palog-for-palo-alto-logs) |
 
 ---
 
@@ -125,30 +138,33 @@ File format reference and comparison database spanning 486 individual formats an
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 489 | 312 | 314 | 290 | 732 | 486 | **2 623** |
-| Wiki Articles | 348 | 290 | 289 | 303 | 300 | – | **1 530** |
-| How-To Guides | 447 | 289 | 290 | 295 | 352 | – | **1 673** |
-| Comparisons | – | – | – | – | – | 404 | **404** |
-| Static Pages | 1284 | 891 | 893 | 888 | 1384 | 890 | **6 230** |
-| Crosslinks (outbound) | – | – | – | – | – | – | **2 993** |
+| Primary items | 494 | 317 | 319 | 295 | 737 | 491 | **2 653** |
+| Wiki Articles | 353 | 295 | 294 | 308 | 305 | – | **1 555** |
+| How-To Guides | 452 | 294 | 295 | 300 | 357 | – | **1 698** |
+| Comparisons | – | – | – | – | – | 409 | **409** |
+| Static Pages | 1299 | 906 | 908 | 903 | 1399 | 900 | **6 315** |
+| Crosslinks (outbound) | – | – | – | – | – | – | **3 128** |
 
-*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **40** ops guides, **5** journal posts, and supporting platform pages.*
+*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **45** ops guides, **7** journal posts, and supporting platform pages. Palog is tracked separately as a SaaS product in preparation.*
 
 ---
 
 ## Latest Update
 
-- **2026-08-15** (hub / QA close)
-  - **Hub:** architecture diagrams on ops guides where a multi-hop flow helps (**27 / 40** guides with `GuideDiagram`); diagram rule tightened for future H1 ships.
-  - **Crosslinks:** network audit clean – **2 993** outbound JSON refs, **0** dead (fixed htaccess / clock-skew / SZL / home SMTP+git targets).
-  - **Quality:** smoke-tested wave interactive pages (tools / calc / units / colors) plus new hub guides; publish stamps aligned to **2026-08-15**; hub README inventories synced (**2 623** primary · **6 230** static · journal **5**).
+- **2026-08-21** (content wave + Palog prep)
+  - **Content:** weekly release across all six browser-side sites – five primaries / five wiki / five guides each (formats: five formats + five comparisons); impression-led and zero-signal refreshes; entity/title hygiene. Themes: ML dumps (joblib/RDS/MAT/GGML/ckpt); Caribbean currencies (BBD/JMD/TTD/BZD/GYD); SPF/DMARC/DKIM + Set-Cookie/Cache-Control tools; LTI/D/E/coverage/quick/current-ratio calculators; Wh/mi↔kWh/100km, lbf→N, LPM→GPM, cm→pica converters; XYZ↔LAB, ACEScg/Rec.709→sRGB, RGB channel-swap.
+  - **Hub:** five more Ubuntu ops playbooks (**45** guides) – pg_dump, Cloudflare `real_ip`, Certbot DNS-01, Prometheus node exporter, Docker prune – plus weekly journal and a builder note on preparing Palog.
+  - **Palog:** [palog.jarhalab.com](https://palog.jarhalab.com) product overview live; SaaS still in preparation; no subscription pricing published yet.
+  - **Crosslinks:** network audit clean – **3 128** outbound JSON refs, **0** dead.
+  - **Quality:** wave interactive pages smoke-tested (tools / calc / units / colors); hub inventories synced (**2 653** primary · **6 315** content JSON pages · journal **7**).
 
 ## Updates
 
 - **2026-08-15**
   - **Content:** weekly release across all six sites – five primaries / five wiki / five guides each (formats: five + five); impression-led, sources-gap, zero-signal, and AI citation refreshes; entity/title hygiene. Themes: Jupyter/Quarto notebooks + Thrift/WebArchive; Southern Africa/Comoros currencies; INI/properties/ETag/HSTS/SRT–VTT tools; DSCR/SaaS finance calcs; mmHg vacuum units; wavelength/Munsell/Rec.2020 color tools. Hub: five more Ubuntu ops playbooks (**40** guides) plus journal note on the network wave.
-  - **Crosslinks:** planned Section C pairs wired as sister sites shipped (incl. mmHg converters).
-  - **Quality:** per-site checks and builds green (**2 623** primary · **6 230** content JSON pages).
+  - **Hub / QA close:** architecture diagrams on ops guides where a multi-hop flow helps (**27 / 40** guides with `GuideDiagram`); diagram rule tightened for future H1 ships; publish stamps aligned to **2026-08-15**.
+  - **Crosslinks:** planned Section C pairs wired as sister sites shipped (incl. mmHg converters); network audit clean – **2 993** outbound JSON refs, **0** dead (fixed htaccess / clock-skew / SZL / home SMTP+git targets).
+  - **Quality:** smoke-tested wave interactive pages (tools / calc / units / colors) plus new hub guides; per-site checks and builds green; hub README inventories synced (**2 623** primary · **6 230** static · journal **5**).
 
 - **2026-08-07**
   - **Content:** weekly release across all six sites – five primaries / five wiki / five guides each (formats: five + five); impression-led and quiet-page refreshes; citation and title hygiene. Hub: five more Ubuntu ops playbooks (**35** guides) plus a short journal note.
@@ -244,19 +260,23 @@ File format reference and comparison database spanning 486 individual formats an
 
 ## Privacy First
 
-All JarhaLab applications process data **entirely in the browser**. No server-side processing, no tracking, no cookies, no sign-up required. Your data never leaves your device.
+The six browser-side JarhaLab sites (tools, calc, colors, units, codes, formats) process data **entirely in the browser**. No server-side processing of your inputs, no tracking cookies required to use the tools, no sign-up required. Your paste/upload never leaves your device for those apps.
+
+**Palog** is different by design: it is a tenant-scoped SaaS for firewall log ingest and dashboards (still in preparation). Customer log data stays in the tenant for product surfaces such as dashboards, search, alerts, and digests – it is not sold or handed to unrelated third parties for their own use.
 
 ---
 
 ## Tech Stack
 
-All projects share the same modern stack:
+Browser-side projects share the same modern stack:
 
 - **[Next.js 16](https://nextjs.org/)** – App Router, Turbopack, Static Site Generation
 - **[TypeScript](https://www.typescriptlang.org/)** – End-to-end type safety
 - **[Tailwind CSS v4](https://tailwindcss.com/)** – Utility-first styling, dark UI
 - **JSON-driven content** – Tools, wiki, and guides defined as JSON; pages built as static routes
 - **SEO optimized** – JSON-LD structured data, OpenGraph tags, sitemaps, canonical URLs
+
+Palog uses a separate SaaS stack for TLS syslog ingest, tenancy, and operator workflows (product overview at [palog.jarhalab.com](https://palog.jarhalab.com)).
 
 ---
 
@@ -271,6 +291,7 @@ All projects share the same modern stack:
 | Units | [units.jarhalab.com](https://units.jarhalab.com) |
 | Codes | [codes.jarhalab.com](https://codes.jarhalab.com) |
 | Formats | [formats.jarhalab.com](https://formats.jarhalab.com) |
+| Palog | [palog.jarhalab.com](https://palog.jarhalab.com) |
 
 ---
 
