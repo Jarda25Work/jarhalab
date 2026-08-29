@@ -14,8 +14,8 @@ Central homepage for the JarhaLab platform: sister-site directory, platform note
 
 | | Count |
 |---|------:|
-| Ops guides | **45** |
-| Journal posts | **7** |
+| Ops guides | **50** |
+| Journal posts | **8** |
 | Platform / engineering pages | **7** |
 
 ---
@@ -28,10 +28,10 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 | | Count |
 |---|------:|
-| Tools | **494** |
-| Wiki Articles | **353** |
-| How-To Guides | **452** |
-| Static Pages | **1299** |
+| Tools | **499** |
+| Wiki Articles | **358** |
+| How-To Guides | **457** |
+| Static Pages | **1314** |
 
 **Cluster highlights:** code-tools (62) · dev-converters (44) · encoder-decoder (35) · formatter (27) · analyzer (25)
 
@@ -45,10 +45,10 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **317** |
-| Wiki Articles | **295** |
-| How-To Guides | **294** |
-| Static Pages | **906** |
+| Calculators | **322** |
+| Wiki Articles | **300** |
+| How-To Guides | **299** |
+| Static Pages | **921** |
 
 **Cluster highlights:** finance (175) · health (29) · math (28) · everyday (23) · construction (13)
 
@@ -62,10 +62,10 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 | | Count |
 |---|------:|
-| Tools | **319** |
-| Wiki Articles | **294** |
-| How-To Guides | **295** |
-| Static Pages | **908** |
+| Tools | **324** |
+| Wiki Articles | **299** |
+| How-To Guides | **300** |
+| Static Pages | **923** |
 
 **Cluster highlights:** scheme-generators (44) · color-databases (34) · advanced-accessibility (31) · color-analysis (21) · contrast-checkers (20)
 
@@ -79,10 +79,10 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 | | Count |
 |---|------:|
-| Converters | **295** |
-| Wiki Articles | **308** |
-| How-To Guides | **300** |
-| Static Pages | **903** |
+| Converters | **300** |
+| Wiki Articles | **313** |
+| How-To Guides | **305** |
+| Static Pages | **918** |
 
 **Cluster highlights:** volume (40) · digital (39) · length (34) · weight (26) · power (23)
 
@@ -96,12 +96,12 @@ Reference database for technical and structured codes with linked wiki articles 
 
 | | Count |
 |---|------:|
-| Codes | **737** |
-| Wiki Articles | **305** |
-| How-To Guides | **357** |
-| Static Pages | **1399** |
+| Codes | **742** |
+| Wiki Articles | **310** |
+| How-To Guides | **362** |
+| Static Pages | **1414** |
 
-**Cluster highlights:** country (199) · airport (87) · currency (95) · port (79) · http (60)
+**Cluster highlights:** country (199) · airport (87) · currency (100) · port (79) · http (60)
 
 ---
 
@@ -109,13 +109,13 @@ Reference database for technical and structured codes with linked wiki articles 
 
 > **Status:** Live
 
-File format reference and comparison database spanning 491 individual formats and 409 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
+File format reference and comparison database spanning 496 individual formats and 414 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
 | | Count |
 |---|------:|
-| Formats | **491** |
-| Comparisons | **409** |
-| Static Pages | **900** |
+| Formats | **496** |
+| Comparisons | **414** |
+| Static Pages | **910** |
 
 **Cluster highlights:** data (109) · image (43) · system (41) · code (34) · document (33)
 
@@ -138,18 +138,26 @@ Focused SaaS for Palo Alto Networks firewall logs: TLS syslog ingest, tenant-sco
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 494 | 317 | 319 | 295 | 737 | 491 | **2 653** |
-| Wiki Articles | 353 | 295 | 294 | 308 | 305 | – | **1 555** |
-| How-To Guides | 452 | 294 | 295 | 300 | 357 | – | **1 698** |
-| Comparisons | – | – | – | – | – | 409 | **409** |
-| Static Pages | 1299 | 906 | 908 | 903 | 1399 | 900 | **6 315** |
-| Crosslinks (outbound) | – | – | – | – | – | – | **3 128** |
+| Primary items | 499 | 322 | 324 | 300 | 742 | 496 | **2 683** |
+| Wiki Articles | 358 | 300 | 299 | 313 | 310 | – | **1 580** |
+| How-To Guides | 457 | 299 | 300 | 305 | 362 | – | **1 723** |
+| Comparisons | – | – | – | – | – | 414 | **414** |
+| Static Pages | 1314 | 921 | 923 | 918 | 1414 | 910 | **6 400** |
+| Crosslinks (outbound) | – | – | – | – | – | – | **3 294** |
 
-*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **45** ops guides, **7** journal posts, and supporting platform pages. Palog is tracked separately as a SaaS product in preparation.*
+*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **50** ops guides, **8** journal posts, and supporting platform pages. Palog is tracked separately as a SaaS product in preparation.*
 
 ---
 
 ## Latest Update
+
+- **2026-08-29** (content wave)
+  - **Content:** weekly release across all six browser-side sites – five primaries / five wiki / five guides each (formats: five formats + five comparisons); impression-led and zero-signal refreshes; entity/title hygiene; codes/formats sources-gap **1S ×15**/site. Themes: GeoParquet/VHDX/BRAW/AAB/sdist packaging; Caribbean+Hispaniola currencies (ANG/AWG/SRD/HTG/DOP); Permissions/Referrer/Clear-Site-Data + COOP/COEP header builders; operating/EBITDA margin · CAGR · ROCE · asset turnover; fc→lux · T→G · nits↔cd/m² · Bq→Ci; Adobe/ProPhoto→sRGB · XYZ↔xyY · LAB→LCH.
+  - **Hub:** five more Ubuntu ops playbooks (**50** guides) – rsyslog, smartctl, chrony, SFTP chroot, mongodump – plus weekly journal on the network wave.
+  - **Crosslinks:** Section C pairs wired bidirectionally; network audit clean – **3 294** outbound JSON refs, **0** dead.
+  - **Quality:** wave interactive pages smoke-tested (tools / calc / units / colors); hub inventories synced (**2 683** primary · **6 400** content JSON pages · journal **8**).
+
+## Updates
 
 - **2026-08-21** (content wave + Palog prep)
   - **Content:** weekly release across all six browser-side sites – five primaries / five wiki / five guides each (formats: five formats + five comparisons); impression-led and zero-signal refreshes; entity/title hygiene. Themes: ML dumps (joblib/RDS/MAT/GGML/ckpt); Caribbean currencies (BBD/JMD/TTD/BZD/GYD); SPF/DMARC/DKIM + Set-Cookie/Cache-Control tools; LTI/D/E/coverage/quick/current-ratio calculators; Wh/mi↔kWh/100km, lbf→N, LPM→GPM, cm→pica converters; XYZ↔LAB, ACEScg/Rec.709→sRGB, RGB channel-swap.
@@ -157,8 +165,6 @@ Focused SaaS for Palo Alto Networks firewall logs: TLS syslog ingest, tenant-sco
   - **Palog:** [palog.jarhalab.com](https://palog.jarhalab.com) product overview live; SaaS still in preparation; no subscription pricing published yet.
   - **Crosslinks:** network audit clean – **3 128** outbound JSON refs, **0** dead.
   - **Quality:** wave interactive pages smoke-tested (tools / calc / units / colors); hub inventories synced (**2 653** primary · **6 315** content JSON pages · journal **7**).
-
-## Updates
 
 - **2026-08-15**
   - **Content:** weekly release across all six sites – five primaries / five wiki / five guides each (formats: five + five); impression-led, sources-gap, zero-signal, and AI citation refreshes; entity/title hygiene. Themes: Jupyter/Quarto notebooks + Thrift/WebArchive; Southern Africa/Comoros currencies; INI/properties/ETag/HSTS/SRT–VTT tools; DSCR/SaaS finance calcs; mmHg vacuum units; wavelength/Munsell/Rec.2020 color tools. Hub: five more Ubuntu ops playbooks (**40** guides) plus journal note on the network wave.
