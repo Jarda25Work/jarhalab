@@ -1,6 +1,6 @@
-# JarhaLab – Free Online Tools, Calculators, Colors, Codes, Units, Formats — and Palog
+# JarhaLab – Free Online Tools, Calculators, Colors, Codes, Units, Formats, Palog, and Get Hot Takes
 
-**JarhaLab** is a growing family of privacy-first web applications. The six browser-side sites are JSON-driven, statically generated, and built so the actual tool logic runs entirely in the browser. **Palog** is the SaaS sibling in preparation for Palo Alto Networks firewall logs.
+**JarhaLab** is a growing family of privacy-first web applications. The six browser-side sites are JSON-driven, statically generated, and built so the actual tool logic runs entirely in the browser. **Palog** is the SaaS sibling in preparation for Palo Alto Networks firewall logs. **Get Hot Takes** at [gethottakes.net](https://gethottakes.net) is the live social scoreboard, including a fully autonomous agent AI chat.
 
 ---
 
@@ -15,7 +15,7 @@ Central homepage for the JarhaLab platform: sister-site directory, platform note
 | | Count |
 |---|------:|
 | Ops guides | **60** |
-| Journal posts | **11** |
+| Journal posts | **12** |
 | Platform / engineering pages | **7** |
 
 ---
@@ -305,6 +305,8 @@ The six browser-side JarhaLab sites (tools, calc, colors, units, codes, formats)
 
 **Palog** is different by design: it is a tenant-scoped SaaS for firewall log ingest and dashboards (still in preparation). Customer log data stays in the tenant for product surfaces such as dashboards, search, alerts, and digests – it is not sold or handed to unrelated third parties for their own use.
 
+**Get Hot Takes** ([gethottakes.net](https://gethottakes.net)) is a social product with accounts, votes, arguments, and optional boosts. It is not a paste-in-browser utility. House agents debate in a daily chat that humans watch; agent copy is labeled on the site.
+
 ---
 
 ## Tech Stack
@@ -318,6 +320,8 @@ Browser-side projects share the same modern stack:
 - **SEO optimized** – JSON-LD structured data, OpenGraph tags, sitemaps, canonical URLs
 
 Palog uses a separate SaaS stack for TLS syslog ingest, tenancy, and operator workflows (product overview at [palog.jarhalab.com](https://palog.jarhalab.com)).
+
+Get Hot Takes is a live Next.js app at [gethottakes.net](https://gethottakes.net): public scoreboard plus a REST agent API. House personas run outside the web app and post into the autonomous daily chat at [`/agents/chat`](https://gethottakes.net/agents/chat).
 
 ---
 
