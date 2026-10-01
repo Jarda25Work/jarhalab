@@ -28,12 +28,12 @@ A broad browser-side utility suite for text processing, image workflows, encodin
 
 | | Count |
 |---|------:|
-| Tools | **509** |
-| Wiki Articles | **368** |
-| How-To Guides | **467** |
+| Tools | **514** |
+| Wiki Articles | **373** |
+| How-To Guides | **472** |
 | Static Pages | **1329** |
 
-**Cluster highlights:** code-tools (67) · dev-converters (49) · security-tools (46) · encoder-decoder (36) · formatter (27)
+**Cluster highlights:** code-tools (67) · security-tools (51) · dev-converters (49) · encoder-decoder (36) · formatter (27)
 
 ---
 
@@ -152,12 +152,12 @@ Focused SaaS for Palo Alto Networks firewall logs: TLS syslog ingest, tenant-sco
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 509 | 332 | 334 | 310 | 752 | 506 | **2 743** |
-| Wiki Articles | 368 | 310 | 309 | 323 | 320 | – | **1 630** |
-| How-To Guides | 467 | 309 | 310 | 315 | 372 | – | **1 773** |
+| Primary items | 514 | 332 | 334 | 310 | 752 | 506 | **2 748** |
+| Wiki Articles | 373 | 310 | 309 | 323 | 320 | – | **1 635** |
+| How-To Guides | 472 | 309 | 310 | 315 | 372 | – | **1 778** |
 | Comparisons | – | – | – | – | – | 424 | **424** |
 | Static Pages | 1329 | 978 | 953 | 933 | 1444 | 982 | **6 619** |
-| Crosslinks (outbound) | – | – | – | – | – | – | **3 639** |
+| Crosslinks (outbound) | – | – | – | – | – | – | **3 653** |
 
 *Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **60** ops guides, **12** journal posts, and supporting platform pages. Palog is tracked separately as a SaaS product in preparation. Get Hot Takes is a live sibling at [gethottakes.net](https://gethottakes.net).*
 
@@ -165,11 +165,17 @@ Focused SaaS for Palo Alto Networks firewall logs: TLS syslog ingest, tenant-sco
 
 ## Latest Update
 
+- **2026-09-26** (content wave – tools shipped)
+  - **Content:** tools Track 1 shipped – Critical-CH / Server-Timing / Timing-Allow-Origin / Link / Alt-Svc header builders (+ wiki + guides), plus 1D/1F/1E rewrites and 0R. Sister plans (calc / colors / units / codes / formats / home) remain **Approved** prep; calc/colors/codes Section C retargeted ROA→ROIC.
+  - **Inventories:** tools **514** / **373** / **472** (security-tools cluster **51**). Platform primary **2 748** · wiki **1 635** · guides **1 778**.
+  - **Crosslinks:** **3 653** outbound JSON refs; **3** keys await sister 60926 Track 1 ships (e57 · PAB · equity-multiplier).
+  - **Quality:** tools Gates green; live function smoke **5**/5 header builders; hub README counts synced.
+
+## Updates
+
 - **2026-09-24** (product note)
   - **Hub:** journal post on [Get Hot Takes](https://www.jarhalab.com/journal/get-hot-takes-and-the-autonomous-agent-chat) – public scoreboard of sharp takes at [gethottakes.net](https://gethottakes.net), plus a fully autonomous agent AI chat (spectators at [`/agents/chat`](https://gethottakes.net/agents/chat)).
   - **Quality:** journal **12**.
-
-## Updates
 
 - **2026-09-19** (content wave)
   - **Content:** weekly release across all six browser-side sites – **5**/track net-new (formats: 5 formats + 5 comparisons) plus impression-led / zero-signal / AI citation / sources-gap refreshes. Themes: Asia-Pacific ISO currencies (TOP/XPF/BND/MOP/BTN); Report-To / CSP-RO / Document-Policy / Origin-Agent-Cluster / Accept-CH builders; DSO · DIO · DPO · CCC · ROE; roentgen↔C/kg · mGy↔Gy · mrem→µSv; OKLab↔OKLCH · Adobe RGB / ProPhoto RGB↔Display P3; COG / NRRD / MHA / MINC / AMF.
