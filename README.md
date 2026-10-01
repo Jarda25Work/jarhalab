@@ -14,8 +14,8 @@ Central homepage for the JarhaLab platform: sister-site directory, platform note
 
 | | Count |
 |---|------:|
-| Ops guides | **60** |
-| Journal posts | **12** |
+| Ops guides | **65** |
+| Journal posts | **13** |
 | Platform / engineering pages | **7** |
 
 ---
@@ -45,12 +45,12 @@ Free calculators with linked wiki articles and how-to guides across finance, mat
 
 | | Count |
 |---|------:|
-| Calculators | **332** |
-| Wiki Articles | **310** |
-| How-To Guides | **309** |
-| Static Pages | **978** |
+| Calculators | **337** |
+| Wiki Articles | **315** |
+| How-To Guides | **314** |
+| Static Pages | **993** |
 
-**Cluster highlights:** finance (167) · math (28) · health (27) · everyday (22) · construction (13)
+**Cluster highlights:** finance (172) · math (28) · health (27) · everyday (22) · construction (13)
 
 ---
 
@@ -62,12 +62,12 @@ Color tools and reference guides for palettes, accessibility, gamut checks, prin
 
 | | Count |
 |---|------:|
-| Tools | **334** |
-| Wiki Articles | **309** |
-| How-To Guides | **310** |
-| Static Pages | **953** |
+| Tools | **339** |
+| Wiki Articles | **314** |
+| How-To Guides | **315** |
+| Static Pages | **968** |
 
-**Cluster highlights:** scheme-generators (44) · color-databases (37) · hwb-oklch (37) · advanced-accessibility (31) · cmyk-advanced (23)
+**Cluster highlights:** scheme-generators (44) · hwb-oklch (42) · color-databases (37) · advanced-accessibility (31) · cmyk-advanced (23)
 
 ---
 
@@ -79,10 +79,10 @@ Unit converters with educational wiki and guide content for everyday, technical,
 
 | | Count |
 |---|------:|
-| Converters | **310** |
-| Wiki Articles | **323** |
-| How-To Guides | **315** |
-| Static Pages | **933** |
+| Converters | **315** |
+| Wiki Articles | **328** |
+| How-To Guides | **320** |
+| Static Pages | **948** |
 
 **Cluster highlights:** digital (43) · volume (41) · length (35) · weight (27) · energy (25)
 
@@ -96,12 +96,12 @@ Reference database for technical and structured codes with linked wiki articles 
 
 | | Count |
 |---|------:|
-| Codes | **752** |
-| Wiki Articles | **320** |
-| How-To Guides | **372** |
-| Static Pages | **1444** |
+| Codes | **757** |
+| Wiki Articles | **325** |
+| How-To Guides | **377** |
+| Static Pages | **1459** |
 
-**Cluster highlights:** country (199) · currency (110) · airport (87) · port (78) · http (60)
+**Cluster highlights:** country (199) · currency (115) · airport (87) · port (78) · http (60)
 
 ---
 
@@ -109,13 +109,13 @@ Reference database for technical and structured codes with linked wiki articles 
 
 > **Status:** Live
 
-File format reference and comparison database spanning 506 individual formats and 424 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
+File format reference and comparison database spanning 511 individual formats and 429 head-to-head comparison pages, with MIME context, format tradeoffs, and decision-oriented comparisons.
 
 | | Count |
 |---|------:|
-| Formats | **506** |
-| Comparisons | **424** |
-| Static Pages | **982** |
+| Formats | **511** |
+| Comparisons | **429** |
+| Static Pages | **992** |
 
 **Cluster highlights:** data (118) · image (48) · system (42) · code (36) · document (36)
 
@@ -152,30 +152,30 @@ Focused SaaS for Palo Alto Networks firewall logs: TLS syslog ingest, tenant-sco
 
 | Metric | tools | calc | colors | units | codes | formats | Total |
 |--------|------:|-----:|-------:|------:|------:|--------:|------:|
-| Primary items | 514 | 332 | 334 | 310 | 752 | 506 | **2 748** |
-| Wiki Articles | 373 | 310 | 309 | 323 | 320 | – | **1 635** |
-| How-To Guides | 472 | 309 | 310 | 315 | 372 | – | **1 778** |
-| Comparisons | – | – | – | – | – | 424 | **424** |
-| Static Pages | 1329 | 978 | 953 | 933 | 1444 | 982 | **6 619** |
-| Crosslinks (outbound) | – | – | – | – | – | – | **3 653** |
+| Primary items | 514 | 337 | 339 | 315 | 757 | 511 | **2 773** |
+| Wiki Articles | 373 | 315 | 314 | 328 | 325 | – | **1 655** |
+| How-To Guides | 472 | 314 | 315 | 320 | 377 | – | **1 798** |
+| Comparisons | – | – | – | – | – | 429 | **429** |
+| Static Pages | 1329 | 993 | 968 | 948 | 1459 | 992 | **6 689** |
+| Crosslinks (outbound) | – | – | – | – | – | – | **3 805** |
 
-*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **60** ops guides, **12** journal posts, and supporting platform pages. Palog is tracked separately as a SaaS product in preparation. Get Hot Takes is a live sibling at [gethottakes.net](https://gethottakes.net).*
+*Plus the hub at [www.jarhalab.com](https://www.jarhalab.com) with **65** ops guides, **13** journal posts, and supporting platform pages. Palog is tracked separately as a SaaS product in preparation. Get Hot Takes is a live sibling at [gethottakes.net](https://gethottakes.net).*
 
 ---
 
 ## Latest Update
 
-- **2026-09-26** (content wave – tools shipped)
-  - **Content:** tools Track 1 shipped – Critical-CH / Server-Timing / Timing-Allow-Origin / Link / Alt-Svc header builders (+ wiki + guides), plus 1D/1F/1E rewrites and 0R. Sister plans (calc / colors / units / codes / formats / home) remain **Approved** prep; calc/colors/codes Section C retargeted ROA→ROIC.
-  - **Inventories:** tools **514** / **373** / **472** (security-tools cluster **51**). Platform primary **2 748** · wiki **1 635** · guides **1 778**.
-  - **Crosslinks:** **3 653** outbound JSON refs; **3** keys await sister 60926 Track 1 ships (e57 · PAB · equity-multiplier).
-  - **Quality:** tools Gates green; live function smoke **5**/5 header builders; hub README counts synced.
+- **2026-09-26** (content wave)
+  - **Content:** weekly release across all six browser-side sites – **5**/track net-new (formats: 5 formats + 5 comparisons) plus impression-led / zero-signal / AI citation / sources-gap refreshes. Themes: Central America ISO currencies (GTQ/HNL/NIO/PAB/CRC); Critical-CH / Server-Timing / Timing-Allow-Origin / Link / Alt-Svc builders; ROIC · FCF · OCF · equity multiplier · debt ratio; US↔Imperial GPM · Sv↔mSv · torr→psi; sRGB↔Rec.2020 · Rec.2020↔Display P3 · Rec.2020↔XYZ; E57 / PCD / OpenVDB / CZI / OME-TIFF.
+  - **Hub:** five more Ubuntu security/ops playbooks (**65** guides) – ClamAV, Lynis, sudoers, Trivy, Docker rootless – plus journal on the Central America / Rec.2020 / container-hardening network (**13** posts).
+  - **Crosslinks:** Section C pairs bidirectional; audit clean – **3 805** outbound JSON refs, **0** dead.
+  - **Quality:** plans **Complete** after network-qa; live function smoke **20**/20 interactive 1A; inventories synced (**2 773** primary · **6 689** static · journal **13**).
 
 ## Updates
 
 - **2026-09-24** (product note)
   - **Hub:** journal post on [Get Hot Takes](https://www.jarhalab.com/journal/get-hot-takes-and-the-autonomous-agent-chat) – public scoreboard of sharp takes at [gethottakes.net](https://gethottakes.net), plus a fully autonomous agent AI chat (spectators at [`/agents/chat`](https://gethottakes.net/agents/chat)).
-  - **Quality:** journal **12**.
+  - **Quality:** journal **12** at the time of the note (now **13** after 20260926 1J).
 
 - **2026-09-19** (content wave)
   - **Content:** weekly release across all six browser-side sites – **5**/track net-new (formats: 5 formats + 5 comparisons) plus impression-led / zero-signal / AI citation / sources-gap refreshes. Themes: Asia-Pacific ISO currencies (TOP/XPF/BND/MOP/BTN); Report-To / CSP-RO / Document-Policy / Origin-Agent-Cluster / Accept-CH builders; DSO · DIO · DPO · CCC · ROE; roentgen↔C/kg · mGy↔Gy · mrem→µSv; OKLab↔OKLCH · Adobe RGB / ProPhoto RGB↔Display P3; COG / NRRD / MHA / MINC / AMF.
